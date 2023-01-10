@@ -1,0 +1,200 @@
+I"e<h1 id="class-proposed-schedule">Class Proposed Schedule</h1>
+<p><br />
+The proposed schedule below is subject to change. My initial plan is to cover all the material listed here but I might modify it if extra time is needed for some particular topics. I will updates this table as needed during the semester.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Lecture</th>
+      <th>Module</th>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Homework</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>L1</td>
+      <td><a href="/_pages/modulelist/"> M0 </a></td>
+      <td>Aug 29</td>
+      <td>Introductions and Course Overview</td>
+      <td>Join Slack Workspace</td>
+    </tr>
+    <tr>
+      <td>L2</td>
+      <td><a href="/docs/modules/M1/"> M1 </a></td>
+      <td>Aug 31</td>
+      <td>Review of Electric Power Systems: Generator, Transmission, Distribution, Load <br /> “Old” Grids and Its Problems, The Solution: Smart Grid <br /> Introduction to Smart Grids or Modern Power Grids: Definition, Benefits, Opportunities and Challenges</td>
+      <td><a href="https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages">J1</a></td>
+    </tr>
+    <tr>
+      <td>L3</td>
+      <td><a href="/docs/modules/M2/"> M2 </a></td>
+      <td>Sep 5</td>
+      <td>Smart Grid from Global Perspective: How electricity distribution will change? <br /> Smart-meter deployment</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>L4</td>
+      <td><a href="/docs/modules/M2/"> M2 </a></td>
+      <td>Sep 7</td>
+      <td>ICT Perspectives, End user view, DSO view <br /> <strong>Class Discussion:</strong> Ethnical &amp; health concerns regarding Smart-meters <br /> Challenges of smart grid implementation in developing countries <br /> Role of Smart grids to prevent blackouts &amp; understanding consumer behavior under extreme conditions (Texas example)</td>
+      <td><a href="https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages">J2</a></td>
+    </tr>
+    <tr>
+      <td>L5</td>
+      <td>M2 / <a href="/docs/modules/M3/"> M3 </a></td>
+      <td>Sep 12</td>
+      <td>AMI deployment experience Vermont and Sweden <br /> Smart Grid from Global Perspective: How electricity generation will change? <br /> Paradigm shift, renewable energy resources</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>L6</td>
+      <td><a href="/docs/modules/M3/"> M3 </a></td>
+      <td>Sep 14</td>
+      <td>Distributed generation: definition, history, planning and operation <br /> Case Study: Rooftop PV study case</td>
+      <td><a href="https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/bf736605-42a0-41a8-987a-754e3066d785?panel=Main">A1</a></td>
+    </tr>
+    <tr>
+      <td>L7</td>
+      <td><a href="/docs/modules/M4/"> M4 </a></td>
+      <td>Sep 19</td>
+      <td>Closer look at SAM <br /> Challenges of DG Integration from a grid perspective <br /> <strong>Class Discussion</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>L8</td>
+      <td><a href="/docs/modules/M4/"> M4 </a></td>
+      <td>Sep 21</td>
+      <td>Solar Penetration Outlook <br /> The Duck Curve and Possible Solutions</td>
+      <td>Watch videos on Intro to Linear Programming <br /> J3</td>
+    </tr>
+    <tr>
+      <td>L9</td>
+      <td><a href="/docs/modules/M5/"> M5 </a></td>
+      <td>Sep 26</td>
+      <td>Distributed Energy Resources (DERs) <br /> Economics of Energy Storage</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>L10</td>
+      <td><a href="/docs/modules/M5/"> M5 </a></td>
+      <td>Sep 28</td>
+      <td>Energy Storage Applications to Power Systems <br /> Energy Systems Management <br /> Linear Models in R using “lpsolveAPI” package and/or Python with Pyomo</td>
+      <td>A2</td>
+    </tr>
+    <tr>
+      <td>L11</td>
+      <td><a href="/docs/modules/M6/"> M6 </a></td>
+      <td>Oct 3</td>
+      <td>Energy Storage Management Systems:  Residential PV + battery <br /> Study case: storage management problem formulation</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>L12</td>
+      <td><a href="/docs/modules/M6/"> M6 </a></td>
+      <td>Oct 5</td>
+      <td>Study case: storage management implementation in R/Python</td>
+      <td>A3</td>
+    </tr>
+    <tr>
+      <td>L13</td>
+      <td>-</td>
+      <td>Oct 10</td>
+      <td><strong>Fall break no classes</strong></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>L14</td>
+      <td>-</td>
+      <td>Oct 12</td>
+      <td>Class Project, Team building, Proposal presentations</td>
+      <td>Project Proposal (2-3 slides)</td>
+    </tr>
+    <tr>
+      <td>L15</td>
+      <td><a href="/docs/modules/M7/"> M7 </a></td>
+      <td>Oct 17</td>
+      <td>Impact of DER on grid operation/scheduling and planning <br /></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>L16</td>
+      <td><a href="/docs/modules/M7/"> M7 </a></td>
+      <td>Oct 19</td>
+      <td>Economic dispatch problem with renewables <br /> Case study - Hydro-thermal scheduling Brazil</td>
+      <td>J4</td>
+    </tr>
+    <tr>
+      <td>L17</td>
+      <td><a href="/docs/modules/M8/"> M8</a></td>
+      <td>Oct 24</td>
+      <td>Intro to Network Pricing - Transmission and Distribution Use of System Charges <br /> Electricity Rate Structure</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>L18</td>
+      <td><a href="/docs/modules/M8/"> M8</a></td>
+      <td>Oct 26</td>
+      <td>Guest Speaker: <a href="https://www.linkedin.com/in/jeff-hughes-74b58912/">Jeffrey Hughes</a>, Utilities Commissioner at North Carolina Utilities Commission</td>
+      <td>J5</td>
+    </tr>
+    <tr>
+      <td>L19</td>
+      <td><a href="/docs/modules/M9/"> M9</a></td>
+      <td>Oct 31</td>
+      <td>Revenue Requirement (CAPEX + OPEX) <br /> How to calculate efficient operational expenditure?</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>L20</td>
+      <td><a href="/docs/modules/M9/"> M9</a></td>
+      <td>Nov 2</td>
+      <td>Utility benchmark analysis using Data Envelopment Analysis (DEA)</td>
+      <td>A4</td>
+    </tr>
+    <tr>
+      <td>L21</td>
+      <td>-</td>
+      <td>Nov 7</td>
+      <td><strong>Energy Week no class</strong> <br /> Asynchronous recorded videos on power flow calculation</td>
+      <td>Watch posted videos</td>
+    </tr>
+    <tr>
+      <td>L22</td>
+      <td>-</td>
+      <td>Nov 9</td>
+      <td><strong>Energy Week no class</strong> <br /> Attend a panel I will be moderating on “Modernizing the Grid” as part of the 2022 Energy conference. <br /> Please register <a href="https://www.eventbrite.com/e/14th-annual-duke-energy-conference-and-reception-tickets-415396852167">here</a>.</td>
+      <td>J6 <br /> Write a reflection about one of the panels</td>
+    </tr>
+    <tr>
+      <td>L23</td>
+      <td><a href="/docs/modules/M10/"> M10</a></td>
+      <td>Nov 14</td>
+      <td>Guest Speaker: <a href="https://www.linkedin.com/in/franco-ghadiri/">Franco Ghadiri</a>, California Energy Commission</td>
+      <td>Work on project</td>
+    </tr>
+    <tr>
+      <td>L24</td>
+      <td><a href="/docs/modules/M10/"> M10</a></td>
+      <td>Nov 16</td>
+      <td>Cost allocation: Principles and assumptions, Fixed &amp; Incremental/marginal cost methods <br /></td>
+      <td>Work on project</td>
+    </tr>
+    <tr>
+      <td>L25</td>
+      <td><a href="/docs/modules/M10/"> M10</a></td>
+      <td>Nov 21</td>
+      <td>Cost allocation: Case Study 6-bus system</td>
+      <td>Work on project</td>
+    </tr>
+    <tr>
+      <td>L26/ <br /> L27</td>
+      <td>-</td>
+      <td>Nov 28 - 30</td>
+      <td><strong>Final Project Presentations</strong></td>
+      <td>Project Presentation</td>
+    </tr>
+  </tbody>
+</table>
+:ET

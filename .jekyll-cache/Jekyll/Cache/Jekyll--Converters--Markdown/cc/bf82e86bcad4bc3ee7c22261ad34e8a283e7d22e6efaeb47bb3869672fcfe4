@@ -1,0 +1,45 @@
+I"þ<h2 id="learning-objectives">Learning Objectives</h2>
+
+<p>The learning goals for this module are:</p>
+
+<ul>
+  <li>Discuss the basics of Time Series Analysis (TSA): background, motivation, definition, components, etc; <br /></li>
+  <li>Go over R and RStudio basics such as how to install packages, importing and exporting data, making plots; <br /></li>
+  <li>Introduce best practices on coding: creating well commented scripts, loading packages, adding header. <br /></li>
+</ul>
+
+<h2 id="slides">Slides</h2>
+
+<p>Here is a <a href="/docs/modules/PPTS/TSA_M2_.pdf"> link </a> to the slide deck used in class.</p>
+
+<h2 id="resources">Resources</h2>
+
+<p>*Required Reading: Chapter 1 from the book Smart Grids From a Global Perspective.</p>
+
+<p><a href="/docs/modules/readings*/M2_CH1_SmartGrids_GlobalPerspective.pdf"> Chapter 1 </a></p>
+
+<p>Optional reading: If you want more information on the surveys conducted please refer to the following files.</p>
+
+<ul>
+  <li><a href="/docs/modules/readings/M2_Vermont_experience.pdf"> Vermont Experience </a></li>
+  <li><a href="/docs/modules/readings/M2_Sweden_experience.pdf"> Sweden Experience </a></li>
+</ul>
+
+<h2 id="topics-for-discussionreflection">Topics for Discussion/Reflection</h2>
+
+<ul>
+  <li>
+    <p>How much the advent and success of Smart Grids depend on the full roll out of Smart Meters? <br /></p>
+  </li>
+  <li>
+    <p>Knowing how the internet developed and changes our daily lives, can we draw a parallel with Smart Grids and predict their evolution in the future? <br /></p>
+  </li>
+  <li>
+    <p>How to educate consumers on how to use smart grid? <br /></p>
+  </li>
+</ul>
+
+<h2 id="deliverables">Deliverables</h2>
+
+<p>For this module you will do a journal entry using Sakai discussion. Here is the journal entry <a href="https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages">J2</a>. The due date for J2 is Tuesday Sept 13 for journal entries and Friday Sept 6th for journal comments.</p>
+:ET
