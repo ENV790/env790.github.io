@@ -13,7 +13,7 @@ layout: splash
 
 # Class Proposed Schedule
 <br>
-The proposed schedule below is subject to change. My initial plan is to cover all the material listed here but I might modify it if extra time is needed for some particular topics. I will updates this table as needed during the semester.
+The proposed schedule below is subject to change. My initial plan is to cover all the material listed here but I might modify it if extra time is needed for some particular topics. I will update this table as needed during the semester.
 
 
 | Lecture | Module |   Date  | Topic | Homework |
