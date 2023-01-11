@@ -22,8 +22,10 @@ The first thing you need to do is get you machine ready to run R. You may use yo
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/TSA_M1_.pdf" > link </a> to the slide deck used in class.
-Here is a <a href="/docs/modules/PPTS/TSA_M2_.pdf" > link </a> to the slide deck used in class.
+Here are the slide decks used in class. <br>
+
+<a href="/docs/modules/PPTS/TSA_M1_ClassOverviewAndIntro_part1.pdf" > L1 - Course Overview and Introductions </a> <br>
+<a href="/docs/modules/PPTS/TSA_M1_IntroTSA_R_RStudio_part2.pdf" > L2 - Intro to TSA, R and RStudio </a> <br>
 
 ## Resources to get your platform ready
 
