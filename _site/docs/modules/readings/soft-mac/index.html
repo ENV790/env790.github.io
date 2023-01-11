@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>M1 - Course Setup and Intro to TSA - Time Series Analysis for Energy Data</title>
+<!-- begin _includes/seo.html --><title>Software Installation Guide for Mac Users - Time Series Analysis for Energy Data</title>
 <meta name="description" content="">
 
 
@@ -17,8 +17,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Time Series Analysis for Energy Data">
-<meta property="og:title" content="M1 - Course Setup and Intro to TSA">
-<meta property="og:url" content="http://localhost:4000/docs/modules/M1/">
+<meta property="og:title" content="Software Installation Guide for Mac Users">
+<meta property="og:url" content="http://localhost:4000/docs/modules/readings/soft-mac/">
 
 
   <meta property="og:description" content="">
@@ -34,7 +34,7 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/docs/modules/M1/">
+<link rel="canonical" href="http://localhost:4000/docs/modules/readings/soft-mac/">
 
 
 
@@ -269,7 +269,7 @@
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="M1 - Course Setup and Intro to TSA">
+    <meta itemprop="headline" content="Software Installation Guide for Mac Users">
     
     
     
@@ -278,7 +278,7 @@
       
         <header>
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="http://localhost:4000/docs/modules/M1/" class="u-url" itemprop="url">M1 - Course Setup and Intro to TSA
+            <a href="http://localhost:4000/docs/modules/readings/soft-mac/" class="u-url" itemprop="url">Software Installation Guide for Mac Users
 </a>
           </h1>
           
@@ -289,77 +289,75 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        <h2 id="learning-objectives">Learning Objectives</h2>
+        <p>The following steps should be performed on your personal computer. If you already have R and RStudio installed skip to step 4.</p>
 
-<p>This course will help you improve quantitative skills and programming skills. We will learn how to use R to handle data sets, to acquire information about the data and to fit time series models. <br /></p>
+<p>1)	Download R from the link <a href="https://cran.r-project.org">https://cran.r-project.org</a>. Click on Download R for (Mac) OS X. Choose the most up to date version R-4.2.2.pkg. Install the package by double-clicking on it and working through the prompts. Leave all default settings in the installation options.</p>
 
-<p>The first thing you need to do is get you machine ready to run R. You may use your own personal computer or choose to use a virtual machine (VM) from Duke’s VCM or a RStudio Container. In this module you will find information on:</p>
+<p>2)	Download the free RStudio Desktop for mac from <a href="https://rstudio.com/products/rstudio/download/">https://rstudio.com/products/rstudio/download/</a>. Double click the downloaded .dmg file. Drag RStudio icon to the Applications folder.</p>
 
-<ul>
-  <li>Setting up your platform;
-    <ul>
-      <li>Setting up a virtual RStudio container or a Virtual Machine (VM); <br /></li>
-      <li>A software installation guide to run R and RStudio for Mac and PC users; and <br /></li>
-      <li>How to link RStudio and our class Github repository. If you don’t have prior GitHub experience, you can simply use Github to download code and data. You will not be required to fork and/or clone the class repository. <br /></li>
-    </ul>
-  </li>
-  <li>Discuss the basics of Time Series Analysis (TSA): background, motivation, definition, components, etc; <br /></li>
-  <li>Go over R and RStudio basics such as how to install packages, importing and exporting data, making plots; <br /></li>
-  <li>Introduce best practices on coding: creating well commented scripts, loading packages, adding header. <br /></li>
-</ul>
+<p>3)	Verify that RStudio and R are working together by double-clicking the RStudio icon. You should see a RStudio window with three panes.</p>
 
-<h2 id="slides">Slides</h2>
+<p>4)	If have already installed R and RStudio just open RStudio and check for any updates by following the steps below. In your console type</p>
 
-<p>Here is a <a href="/docs/modules/PPTS/TSA_M1_.pdf"> link </a> to the slide deck used in class.
-Here is a <a href="/docs/modules/PPTS/TSA_M2_.pdf"> link </a> to the slide deck used in class.</p>
+<blockquote>
+  <p>version</p>
+</blockquote>
 
-<h2 id="resources-to-get-your-platform-ready">Resources to get your platform ready</h2>
+<p>This will show the R version you are running. If you need to update R you can use package updateR. This is the R code you will need to type in your console:</p>
 
-<ul>
-  <li>
-    <p>Option 1: Using a Virtual Machine (VM)</p>
+<blockquote>
+  <p>install.packages(‘devtools’) #assuming it is not already installed
+library(devtools)
+install_github(‘andreacirilloac/updateR’)
+library(updateR)
+updateR()</p>
+</blockquote>
 
-    <ol>
-      <li>
-        <p>Follow the instructions on the <a href="/docs/modules/readings/VM/"> Virtual Machine Creation Guide. </a> <br /></p>
-      </li>
-      <li>
-        <p>Get your VM readu to use R and RStudion. Follow the instruction on Option 2 for Windows users. <br /></p>
-      </li>
-    </ol>
-  </li>
-  <li>
-    <p>Option 2: Using your personal machine <br /></p>
+<p>You will then be prompted to enter your admin password.</p>
 
-    <p>This option has distinct guides depending on which operating system you use. <br /></p>
+<p>Another way to do it is just downloading the new version as in Step 1. Then restart your RStudio. The new R version will be loaded automatically. Then run the following command to update packages.</p>
 
-    <p><a href="/docs/modules/readings/soft-win/"> Guide for Windows users or students using a VM </a> <br /></p>
+<blockquote>
+  <p>update.packages()</p>
+</blockquote>
 
-    <p><a href="/docs/modules/readings/soft-mac/"> Guide for Mac users </a> <br /></p>
-  </li>
-  <li>
-    <p>Option 3: Using RStudio container</p>
+<p>Also check if you have the latest version of RStudio. Just navigate to Help &gt; Check for updates and you be redirect to the website in Step 2 if needed.</p>
 
-    <p>A “container” is a web-based resource pre-configured to run all the software you need, but only that software. RStudio will work and appear just as they would on a typical desktop machine. No installation requires. You just need to set it up.</p>
+<p>5)	Some functions in R require a “X11 server”. You can get this using XQuartz. Download the latest version from <a href="https://www.xquartz.org">https://www.xquartz.org</a>. Open the downloaded DMG file and then double-click on the XQuartz.pkg. Follow the installation steps.</p>
 
-    <ol>
-      <li>Navigate to <a href="https://cmgr.oit.duke.edu/containers">https://cmgr.oit.duke.edu/containers</a> and log in. <br /></li>
-      <li>Click on the reserve RStudio button.</li>
-    </ol>
-  </li>
-</ul>
+<p>6)	Optional for this class. Some packages in R requires compilation. Download and install Xcode (developer tools to create applications for Mac). You can download it from your App Store or use the link: <a href="https://apps.apple.com/us/app/xcode/id497799835?mt=12">https://apps.apple.com/us/app/xcode/id497799835?mt=12</a>. This will take a while and requires a recent version of iOS. If you are using an old mac, please skip this step.</p>
 
-<h2 id="resources-for-linking-github-and-rstudio-optional">Resources for linking GitHub and RStudio (optional)</h2>
+<p>7)	Now you need to install a package manager for macOS called Homebrew. From your Terminal type (or paste) the following command:</p>
 
-<p>No matter which option you choose to run R, you also have the choice to link RStudio and Git to leverage version control and easily download scripts, data and any updates I make to the class repository. Here is a <a href="/docs/modules/readings/git/"> guide </a> and additional help for Git users.</p>
+<blockquote>
+  <p>/bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)”</p>
+</blockquote>
 
-<h2 id="resources-for-intro-to-time-series">Resources for Intro to Time Series</h2>
+<p>8)	Install git. Since you have Homebrew this will be simple. From your Terminal use the following command:</p>
 
-<p><a href="/docs/modules/readings/M2_.pdf"> Intro to TSA in R </a></p>
+<blockquote>
+  <p>$ brew install git</p>
+</blockquote>
 
-<h2 id="deliverables">Deliverables</h2>
+<p>This command you automatically update Homebrew and run the brew clean up. If git is successfully installed you should see a message like this:</p>
 
-<p>No deliverable for M1. Just go over tthe material under resouces and make sure you have R and RStudio ready to be used before we start M2.</p>
+<p>You also need to install git-gui, git’s commit GUI and interactive history browser, use the command</p>
+
+<blockquote>
+  <p>$ brew install git-gui</p>
+</blockquote>
+
+<p>Make sure to set Git with your name and email address using the following commands on the Terminal with your name and email address.</p>
+
+<blockquote>
+  <p>$ git config –global user.name “FirstName LastName”
+$ git config –global user.email “email@example.com”</p>
+</blockquote>
+
+<p>9)	R has functions tied to latex. And we will use them in this class to generate pdf files. You will need to install MacTex. Download MacTeX.pkg from <a href="https://tug.org/mactex/mactex-download.html">https://tug.org/mactex/mactex-download.html</a>. Double-click the pkg installer and follow the prompts. Leave all default settings in the installation options. This will also take a while!</p>
+
+<p>And you are all set! Your computer is ready to do run any packages and functions you will need for this class.</p>
+
 
         
       </section>

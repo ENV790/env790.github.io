@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>M1 - Course Setup and Intro to TSA - Time Series Analysis for Energy Data</title>
+<!-- begin _includes/seo.html --><title>Setting up your virtual machine - Time Series Analysis for Energy Data</title>
 <meta name="description" content="">
 
 
@@ -17,8 +17,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Time Series Analysis for Energy Data">
-<meta property="og:title" content="M1 - Course Setup and Intro to TSA">
-<meta property="og:url" content="http://localhost:4000/docs/modules/M1/">
+<meta property="og:title" content="Setting up your virtual machine">
+<meta property="og:url" content="http://localhost:4000/docs/modules/readings/VM/">
 
 
   <meta property="og:description" content="">
@@ -34,7 +34,7 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/docs/modules/M1/">
+<link rel="canonical" href="http://localhost:4000/docs/modules/readings/VM/">
 
 
 
@@ -269,7 +269,7 @@
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="M1 - Course Setup and Intro to TSA">
+    <meta itemprop="headline" content="Setting up your virtual machine">
     
     
     
@@ -278,7 +278,7 @@
       
         <header>
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="http://localhost:4000/docs/modules/M1/" class="u-url" itemprop="url">M1 - Course Setup and Intro to TSA
+            <a href="http://localhost:4000/docs/modules/readings/VM/" class="u-url" itemprop="url">Setting up your virtual machine
 </a>
           </h1>
           
@@ -289,77 +289,72 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        <h2 id="learning-objectives">Learning Objectives</h2>
+        <p>Follow these instructions to create your Virtual Machine for the semester. This material was adapted from ENV 872 - Environmental Data Analytics and developed by Prof. John Fay.</p>
 
-<p>This course will help you improve quantitative skills and programming skills. We will learn how to use R to handle data sets, to acquire information about the data and to fit time series models. <br /></p>
+<h2 id="1-creating-the-vm">1. Creating the VM</h2>
+<ul>
+  <li>
+    <p>Navigate to Duke’s Virtual Computing Manager: <a href="https://vcm.duke.edu/">https://vcm.duke.edu/</a></p>
+  </li>
+  <li>
+    <p>Log in. (Multifactor authentication is required…)</p>
+  </li>
+  <li>
+    <p>Click <strong>Reserve a VM</strong>.</p>
+  </li>
+  <li>
+    <p>From the <strong>New Virtual Machine Reservation</strong> list, select <em>Windows Office 2016</em> and click <strong>Reserve</strong>. (Alternatively, click the <em>Available Apps</em> tab, then select the <em>Windows Office 2016</em> option from there…) Accept the Terms of Use and then your VM assembly will begin!</p>
 
-<p>The first thing you need to do is get you machine ready to run R. You may use your own personal computer or choose to use a virtual machine (VM) from Duke’s VCM or a RStudio Container. In this module you will find information on:</p>
+    <blockquote>
+      <p><em>It may take some time - up to 30 minutes - for your virtual machine to build. <strong>Please don’t delete then re-request a machine while waiting for your machine to be built as this will just slow things down more.</strong> An email will be sent to you when the machine is ready to use. Remember that before you can remote desktop into the machine, you’ll need to be using a VPN connection.</em></p>
+
+      <blockquote>
+        <p><strong><em>NOTE: I’ve heard reports that build times during peak periods have been in the hours! If you haven’t received an email stating your machine is ready, then its still building. Canceling and restarting will only increase build times for everyone.</em></strong></p>
+      </blockquote>
+
+      <p><em>Note the name of your machine, something like <code class="language-plaintext highlighter-rouge">vcm-12345.vm.duke.edu</code>. You can use this to access your machine via remote desktop. Or you can always return to https://vcm.duke.edu/ to log into your machine.</em></p>
+
+      <p><em>Also note that VMs are set to power down every night. This is to conserve power. However, if you are likely to use your machine consecutive days or will have processes running over serval days, you may consider switching off the “Automatic power downs” option.</em></p>
+    </blockquote>
+  </li>
+  <li>
+    <p>When your machine has been built, click the <strong>Remote Desktop</strong> button. (</p>
+
+    <blockquote>
+      <p>→ <em>Don’t forget that you’ll need to use Duke’s VPN if you are not doing this from a machine already on the campus network!</em></p>
+
+      <p>→ <em>You may wish to save instead of open the remote desktop <code class="language-plaintext highlighter-rouge">vcm-XXXXX.vm.duke.edu.rdp</code> file. I recommend saving it to your desktop so that you’ll have an easy shortcut to your virtual machine.</em></p>
+
+      <p>→ <em>The first time you use your machine, it may have to download and install a number of Windows updates, requiring a restart to complete. It’s best to let this happen and restart when asked.</em></p>
+
+      <p>→ <em>If you get a “failed to connect” error, it’s possible that your machine is not finished being built. Wait a few more moments; if after 20 minutes or so you still cannot connect, seek help.</em></p>
+
+      <p>→ <em>You may get a warning stating “The publisher of this remote connection can’t be identified. Do you want to connect anyway.” That’s ok; check the “Don’t ask me again” and you won’t get this for this machine anymore.</em></p>
+    </blockquote>
+  </li>
+  <li>
+    <p>Log in using your Duke NetID <strong><u>preceded by `WIN/`</u></strong> (e.g. <code class="language-plaintext highlighter-rouge">WIN/jpfay</code>) and your Duke password.</p>
+  </li>
+</ul>
+
+<h2 id="2-installing-base-software-using-chocolatey">2. Installing base software using “chocolatey”</h2>
 
 <ul>
-  <li>Setting up your platform;
+  <li>
+    <p>Open Windows PowerShell as administrator</p>
+
     <ul>
-      <li>Setting up a virtual RStudio container or a Virtual Machine (VM); <br /></li>
-      <li>A software installation guide to run R and RStudio for Mac and PC users; and <br /></li>
-      <li>How to link RStudio and our class Github repository. If you don’t have prior GitHub experience, you can simply use Github to download code and data. You will not be required to fork and/or clone the class repository. <br /></li>
+      <li>Right-click Windows PowerShell from the Windows Menu and select Run as Administrator</li>
     </ul>
   </li>
-  <li>Discuss the basics of Time Series Analysis (TSA): background, motivation, definition, components, etc; <br /></li>
-  <li>Go over R and RStudio basics such as how to install packages, importing and exporting data, making plots; <br /></li>
-  <li>Introduce best practices on coding: creating well commented scripts, loading packages, adding header. <br /></li>
-</ul>
-
-<h2 id="slides">Slides</h2>
-
-<p>Here is a <a href="/docs/modules/PPTS/TSA_M1_.pdf"> link </a> to the slide deck used in class.
-Here is a <a href="/docs/modules/PPTS/TSA_M2_.pdf"> link </a> to the slide deck used in class.</p>
-
-<h2 id="resources-to-get-your-platform-ready">Resources to get your platform ready</h2>
-
-<ul>
   <li>
-    <p>Option 1: Using a Virtual Machine (VM)</p>
-
-    <ol>
-      <li>
-        <p>Follow the instructions on the <a href="/docs/modules/readings/VM/"> Virtual Machine Creation Guide. </a> <br /></p>
-      </li>
-      <li>
-        <p>Get your VM readu to use R and RStudion. Follow the instruction on Option 2 for Windows users. <br /></p>
-      </li>
-    </ol>
-  </li>
-  <li>
-    <p>Option 2: Using your personal machine <br /></p>
-
-    <p>This option has distinct guides depending on which operating system you use. <br /></p>
-
-    <p><a href="/docs/modules/readings/soft-win/"> Guide for Windows users or students using a VM </a> <br /></p>
-
-    <p><a href="/docs/modules/readings/soft-mac/"> Guide for Mac users </a> <br /></p>
-  </li>
-  <li>
-    <p>Option 3: Using RStudio container</p>
-
-    <p>A “container” is a web-based resource pre-configured to run all the software you need, but only that software. RStudio will work and appear just as they would on a typical desktop machine. No installation requires. You just need to set it up.</p>
-
-    <ol>
-      <li>Navigate to <a href="https://cmgr.oit.duke.edu/containers">https://cmgr.oit.duke.edu/containers</a> and log in. <br /></li>
-      <li>Click on the reserve RStudio button.</li>
-    </ol>
+    <p>At the PowerShell prompt, type the following to install Google Chrome, Notepad++, and 7zip:</p>
+    <div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">choco</span><span class="w"> </span><span class="nx">install</span><span class="w"> </span><span class="nx">googlechrome</span><span class="w"> </span><span class="nx">notepadplusplus</span><span class="w"> </span><span class="nx">7zip</span><span class="w"> </span><span class="nt">-y</span><span class="w">
+</span></code></pre></div>    </div>
+    <p>The script will fetch the installers and install them! You should see some icons on your desktop.</p>
   </li>
 </ul>
 
-<h2 id="resources-for-linking-github-and-rstudio-optional">Resources for linking GitHub and RStudio (optional)</h2>
-
-<p>No matter which option you choose to run R, you also have the choice to link RStudio and Git to leverage version control and easily download scripts, data and any updates I make to the class repository. Here is a <a href="/docs/modules/readings/git/"> guide </a> and additional help for Git users.</p>
-
-<h2 id="resources-for-intro-to-time-series">Resources for Intro to Time Series</h2>
-
-<p><a href="/docs/modules/readings/M2_.pdf"> Intro to TSA in R </a></p>
-
-<h2 id="deliverables">Deliverables</h2>
-
-<p>No deliverable for M1. Just go over tthe material under resouces and make sure you have R and RStudio ready to be used before we start M2.</p>
 
         
       </section>

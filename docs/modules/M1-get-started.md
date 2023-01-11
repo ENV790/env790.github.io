@@ -25,19 +25,34 @@ The first thing you need to do is get you machine ready to run R. You may use yo
 Here is a <a href="/docs/modules/PPTS/TSA_M1_.pdf" > link </a> to the slide deck used in class.
 Here is a <a href="/docs/modules/PPTS/TSA_M2_.pdf" > link </a> to the slide deck used in class.
 
-## Resources
+## Resources to get your platform ready
 
-Let's get started with how to set up a VM. If you plan to use your own computer you may skip this step. This guide was kindly shared with us by Prof. John Fay.
+* Option 1: Using a Virtual Machine (VM)
 
-* <a href="/docs/modules/readings/M1_VM_Creation" > Virtual Machine Creation Guide </a>
+  1. Follow the instructions on the <a href="/docs/modules/readings/VM/" > Virtual Machine Creation Guide. </a> <br>
 
-Getting your VM or personal computer ready to run R and RStudio. For Windows users or students using a VM only. This guide were also created by Prof. John Fay.
+  2. Get your VM readu to use R and RStudion. Follow the instruction on Option 2 for Windows users. <br>
 
-For students using their personal Mac computer. 
+* Option 2: Using your personal machine <br>
 
-For students using a RStudio container.
+  This option has distinct guides depending on which operating system you use. <br>
 
-* Required Reading: 
+  <a href="/docs/modules/readings/soft-win/" > Guide for Windows users or students using a VM </a> <br>
+
+  <a href="/docs/modules/readings/soft-mac/" > Guide for Mac users </a> <br>
+
+* Option 3: Using RStudio container
+
+  A “container” is a web-based resource pre-configured to run all the software you need, but only that software. RStudio will work and appear just as they would on a typical desktop machine. No installation requires. You just need to set it up.
+
+  1. Navigate to [https://cmgr.oit.duke.edu/containers](https://cmgr.oit.duke.edu/containers) and log in. <br>
+  2. Click on the reserve RStudio button.
+
+## Resources for linking GitHub and RStudio (optional) 
+
+No matter which option you choose to run R, you also have the choice to link RStudio and Git to leverage version control and easily download scripts, data and any updates I make to the class repository. Here is a <a href="/docs/modules/readings/git/" > guide </a> and additional help for Git users.
+
+## Resources for Intro to Time Series 
 
 <a href="/docs/modules/readings/M2_.pdf" > Intro to TSA in R </a>
 
