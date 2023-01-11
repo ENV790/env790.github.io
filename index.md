@@ -10,6 +10,7 @@ tagline: "Instructor: Luana Lima <br>
           Duke University <br>
           Spring 2023"
 header:
-  overlay_image: /docs/assets/translines.jpeg
+  overlay_image: /docs/assets/renewable-energy-forecasting-mod.jpg
   overlay_filter: 0.4
+  caption: "Photo credit: DALL·E 2"
 ---

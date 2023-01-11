@@ -14,16 +14,15 @@ layout: single
 
 The class topics are divided into twelve modules. There will be readings and/or recording associated with each module.
 
-**M1 -** Getting started <br>
-**M2 -** Intro to TSA, R and RStudio <br>
-**M3 -** Autocovariance and autocorrelation <br>
-**M4 -** Trend and seasonality  <br>
-**M5 -** Missing data and outliers <br>
-**M6 -** ARIMA Models <br>
-**M7 -** Seasonal ARIMA Models <br>
-**M8 -** Intro to forecasting <br>
-**M9 -** Model Performance <br>
-**M10 -** State space models <br>
-**M11 -** Advanced forecasting models <br>
-**M12 -** Model based scenario generation <br>
+**M1 -** Getting started, Intro to TSA, R and RStudio <br>
+**M2 -** Autocovariance and autocorrelation <br>
+**M3 -** Trend and seasonality  <br>
+**M4 -** Missing data and outliers <br>
+**M5 -** ARIMA Models <br>
+**M6 -** Seasonal ARIMA Models <br>
+**M7 -** Intro to forecasting <br>
+**M8 -** Model Performance <br>
+**M9 -** State space models <br>
+**M10 -** Advanced forecasting models <br>
+**M11 -** Model based scenario generation <br>
 

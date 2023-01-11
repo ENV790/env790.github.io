@@ -18,7 +18,7 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 
 | Lecture | Module |   Date  | Topic | Homework |
 |----|----|--------|--------------|----|
-| L1 | <a href="/_pages/modules/M1/" > M1 </a> | Jan 12 | Introductions and Course Overview  | Join Slack Workspace |
+| L1 | <a href="/docs/modules/M1/" > M1 </a> | Jan 12 | Introductions and Course Overview  | Join Slack Workspace |
 | L2 |   <a href="/docs/modules/M2/" > M2 </a> | Jan 17 | Intro to Time Series Analysis, Intro to R and RStudio, Github, R Markdown |   |
 | L3 | <a href="/docs/modules/M3/" > M3 </a> | Jan 19 | Autocovariance and autocorrelation function | |
 | L4 | <a href="/docs/modules/M3/" > M3 </a> | Jan 24 | Partial autocorrelation function | |
@@ -32,7 +32,7 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L12 | <a href="/docs/modules/M7/" > M7 </a> | Feb 23 | ARIMA Models in R |  |
 | L13 | <a href="/docs/modules/M8/" > M8 </a> | Feb 28 | Model Diagnostics, Residual Analysis and Model Selection |  |
 | L14 | <a href="/docs/modules/M8/" > M8 </a> | Mar 2 | Model Performance Metrics |
-| L15 | - </a> | Mar 7 | Class Project, Team building, Proposal presentations | Project Proposal (2-3 slides) |  |
+| L15 | - | Mar 7 | Class Project, Team building, Proposal presentations | Project Proposal (2-3 slides) |  |
 | L16 | <a href="/docs/modules/M8/" > M8 </a> | Mar 9 | Intro to Forecasting, Averaging Techniques |  |
 | - |  | Mar 14 | **Spring break no class** |  |
 | - |  | Mar 16 | **Spring break no class** |  |
@@ -44,4 +44,4 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L22 | <a href="/docs/modules/M11/" > M11 </a> | Apr 6 |  | Work on project |
 | L23 | <a href="/docs/modules/M12/" > M12 </a> | Apr 11 |  | Work on project |
 | - | - | Apr 13  | **MEM Symposium no class** |  |
-| L24 | - | Apr 18 |  **Final Project Presentations** | Project Presentation |
+| L24 | - | Apr 18 |  **Final Project Presentations** |  |

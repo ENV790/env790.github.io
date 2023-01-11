@@ -1,5 +1,5 @@
 ---
-title: "M3 - Autocovariance and autocorrelation function"
+title: "M2 - Autocovariance and autocorrelation function"
 layout: single
 permalink: /docs/modules/M3d/
 sidebar:

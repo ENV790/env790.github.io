@@ -1,0 +1,48 @@
+I"�	<h2 id="learning-objectives">Learning Objectives</h2>
+
+<p>This course will help you improve quantitative skills and programming skills. We will learn how to use R to handle data sets, to acquire information about the data and to fit time series models. <br /></p>
+
+<p>The first thing you need to do is get you machine ready to run R. You may use your own personal computer or choose to use a virtual machine (VM) from Duke’s VCM or a RStudio Container. In this module you will find information on:</p>
+
+<ul>
+  <li>Setting up your platform;
+    <ul>
+      <li>Setting up a virtual RStudio container or a Virtual Machine (VM); <br /></li>
+      <li>A software installation guide to run R and RStudio for Mac and PC users; and <br /></li>
+      <li>How to link RStudio and our class Github repository. If you don’t have prior GitHub experience, you can simply use Github to download code and data. You will not be required to fork and/or clone the class repository. <br /></li>
+    </ul>
+  </li>
+  <li>Discuss the basics of Time Series Analysis (TSA): background, motivation, definition, components, etc; <br /></li>
+  <li>Go over R and RStudio basics such as how to install packages, importing and exporting data, making plots; <br /></li>
+  <li>Introduce best practices on coding: creating well commented scripts, loading packages, adding header. <br /></li>
+</ul>
+
+<h2 id="slides">Slides</h2>
+
+<p>Here is a <a href="/docs/modules/PPTS/TSA_M1_.pdf"> link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/TSA_M2_.pdf"> link </a> to the slide deck used in class.</p>
+
+<h2 id="resources">Resources</h2>
+
+<p>Let’s get started with how to set up a VM. If you plan to use your own computer you may skip this step. This guide was kindly shared with us by Prof. John Fay.</p>
+
+<ul>
+  <li><a href="/docs/modules/readings/M1_VM_Creation"> Virtual Machine Creation Guide </a></li>
+</ul>
+
+<p>Getting your VM or personal computer ready to run R and RStudio. For Windows users or students using a VM only. This guide were also created by Prof. John Fay.</p>
+
+<p>For students using their personal Mac computer.</p>
+
+<p>For students using a RStudio container.</p>
+
+<ul>
+  <li>Required Reading:</li>
+</ul>
+
+<p><a href="/docs/modules/readings/M2_.pdf"> Intro to TSA in R </a></p>
+
+<h2 id="deliverables">Deliverables</h2>
+
+<p>No deliverable for M1. Just go over tthe material under resouces and make sure you have R and RStudio ready to be used before we start M2.</p>
+:ET

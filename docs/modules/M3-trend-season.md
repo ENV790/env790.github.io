@@ -1,5 +1,5 @@
 ---
-title: "M4 - More on DG Integration Challenges"
+title: "M3 - More on DG Integration Challenges"
 layout: single
 permalink: /docs/modules/M4d/
 sidebar:
