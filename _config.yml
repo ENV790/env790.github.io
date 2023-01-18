@@ -130,9 +130,15 @@ footer:
     - label: "Sakai"
       icon:
       url: "https://sakai.duke.edu/portal/site/a5ad3ba7-7739-47f2-b244-5845e726204e"
+      
     - label: "Slack"
       icon: "fab fa-fw fa-slack"
       url: "https://app.slack.com/client/T04HMQAUCVD/C04HMQG2V1V"
+
+    - label: "GitHub"
+      icon: 
+      url: "https://github.com/ENV790/TimeSeriesAnalysis_Sp23"
+
 #
 # Archives
 #  Type
