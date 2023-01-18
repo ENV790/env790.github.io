@@ -17,6 +17,6 @@ You should use Sakai to submit your work. Assignments should be submitted using 
 
 | Module |   Deliverables | Due Date |
 |----|-------------|-------------------|
-| M1 | A1 - Course Set up [Sakai link](https://sakai.duke.edu/portal/site/a5ad3ba7-7739-47f2-b244-5845e726204e/tool/5ec87633-0272-40ea-9b4b-5ffd65f61cba?panel=Main)| Jan 24 |
-| M2 | [A2]() | - |
+| M1 | A1 - Course Set Up <br> [Sakai link](https://sakai.duke.edu/portal/site/a5ad3ba7-7739-47f2-b244-5845e726204e/tool/5ec87633-0272-40ea-9b4b-5ffd65f61cba?panel=Main) <br> [GitHub link](https://github.com/ENV790/TimeSeriesAnalysis_Sp23/blob/main/Assignments/TSA_A01_Sp22.Rmd) | Jan 24 |
+| M2 |  |  |
 | Final Project | Presentation & Short report | Apr 19 |
