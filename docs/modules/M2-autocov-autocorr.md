@@ -1,7 +1,7 @@
 ---
 title: "M2 - Autocovariance and autocorrelation function"
 layout: single
-permalink: /docs/modules/M3d/
+permalink: /docs/modules/M2/
 sidebar:
  nav: modules
 ---
@@ -17,13 +17,17 @@ The learning goals for this module are:
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/TSA_M3_.pdf" > link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/TSA_M2_ACF.pdf" > link </a> to the slide deck used in class.
 
 
 
 ## Resources
 
+Additional information and resources for this module will be found below. <br>
 
+* <a href="/docs/modules/readings/M2-TSA-cryer-ch2.pdf" > Time Series Analysis with Applications - Cryer and Shan - Chapter 2 </a>
+
+* <a href="/docs/modules/readings/M2_IntroR-RStudio.pdf" > Intro to R and RStudio </a>
 
 
 
