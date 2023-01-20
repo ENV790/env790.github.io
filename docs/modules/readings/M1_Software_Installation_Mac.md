@@ -59,7 +59,7 @@ You also need to install git-gui, git's commit GUI and interactive history brows
 
 Make sure to set Git with your name and email address using the following commands on the Terminal with your name and email address.
 
-> $ git config --global user.name "FirstName LastName" <br>
+> $ git config --global user.name "username" <br>
 > $ git config --global user.email "email@example.com"
 
 9)	R has functions tied to latex. And we will use them in this class to generate pdf files. You will need to install MacTex. Download MacTeX.pkg from [https://tug.org/mactex/mactex-download.html](https://tug.org/mactex/mactex-download.html). Double-click the pkg installer and follow the prompts. Leave all default settings in the installation options. This will also take a while!
