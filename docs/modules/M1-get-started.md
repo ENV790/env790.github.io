@@ -56,7 +56,7 @@ No matter which option you choose to run R, you also have the choice to link RSt
 
 ## Resources for Intro to Time Series 
 
-<a href="/docs/modules/readings/M2_.pdf" > Intro to TSA in R </a>
+<a href="/docs/modules/readings/M1_Intro-TSA-in-R.pdf" > Intro to TSA in R </a>
 
 
 ## Deliverables

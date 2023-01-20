@@ -1,7 +1,7 @@
 ---
 title: "Version Control and Git"
 layout: single
-permalink: /docs/modules/git/
+permalink: /docs/modules/readings/git/
 sidebar:
  nav: modules
 output:
