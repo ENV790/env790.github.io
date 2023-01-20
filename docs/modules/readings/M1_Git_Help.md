@@ -62,8 +62,8 @@ Note: Clone with SSH is an option as well. For a guide on creating SSH keys, see
 
 2. At the shell prompt type the following two commands to set you repository's user name and email, replacing my Git username and email with the username and email associated with your GitHub account: <br>
 
-> `git config user.name 'yourusername'` <br> 
-> `git config user.email 'youremail'` <br>
+> $ git config user.name 'yourusername' <br> 
+> $ git config user.email 'youremail' <br>
 
 ### Editing, Committing, Pushing
 
@@ -83,8 +83,8 @@ The commit command records the changes you've made to files in your project. **C
 
 Commits and pushes can also be done in the Terminal by typing commands (i.e., the command line). Navigating to the Terminal tab will allow you to type these commands. The relevant commands are: 
 
-> `git commit` <br>
-> `git push`
+> $ git commit <br>
+> $ git push
 
 Note: files must be staged in order to use the command `git commit`, and a commit message must still be used.
 
@@ -112,13 +112,13 @@ Your instructors will regularly update the course repository. However, this will
 
 Type the following commands into the Terminal window in RStudio (bottom left) <br>
 
-> `git remote add upstream https://github.com/ENV790/TimeSeriesAnalysis_23`<br>
-> `git pull upstream main`<br>
+> $ git remote add upstream https://github.com/ENV790/TimeSeriesAnalysis_23<br>
+> $ git pull upstream main<br>
 
 An alternate to pull is fetch + merge: <br>
 
-> `git fetch upstream main` <br>
-> `git merge upstream` <br>
+> $ git fetch upstream main <br>
+> $ git merge upstream <br>
 
 Note: these steps will update your local repository, but will not update your remote. To bring your remote up to date, you will need to push your changes. <br>
 
