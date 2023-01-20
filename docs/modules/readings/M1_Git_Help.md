@@ -36,44 +36,45 @@ A *fork* is a copy or clone of the main project. Forking allows for greater over
 
 ### Forking and Cloning 
 
-1. Go to the following repository on GitHub: https://github.com/ENV872/Environmental_Data_Analytics_2021
+1. Go to the following repository on GitHub: https://github.com/ENV790/TimeSeriesAnalysis_Sp23
 
 2. Sign in (via the button in the upper right corner) 
 
 3. In the upper right corner, click the "fork" button. This will prompt you to create a copy of this repository in your own user account. This is called a fork of the original repository, which you can edit rather than simply download. 
 
-4. Clone your repository to your local drive using RStudio. 
- * Copy the GitHub repository URL. 
+4. Clone your repository to your local drive using RStudio. <br>
 
- * Click the green "Code" button to expose the Clone sub-menu.With the `HTTPS` option selected, click the :clipboard: icon which copies the forked repsository's URL to your clipboard.
+ * Copy the GitHub repository URL. <br>
 
- * Launch RStudio and select "New Project" from the File menu. Choose "Version Control" and "Git.""
+ * Click the green "Code" button to expose the Clone sub-menu.With the `HTTPS` option selected, click the :clipboard: icon which copies the forked repsository's URL to your clipboard. <br>
 
- * Paste the repository URL and give your repository a name and a file path. The file path should be one that persists permanently, i.e., either on the course server for lab computers or a dedicated space on your personal computer.
+ * Launch RStudio and select "New Project" from the File menu. Choose "Version Control" and "Git." <br>
 
-You now have tracked the course repository (i.e., the "upstream"), forked the repository into your own account (i.e., the "remote"), and cloned the repository to your drive (i.e., the "local"). We will be updating each of these repositories as the course progresses.
+ * Paste the repository URL and give your repository a name and a file path. The file path should be one that persists permanently, i.e., either on the course server for lab computers or a dedicated space on your personal computer. <br>
 
-Note: Clone with SSH is an option as well. For a guide on creating SSH keys, see the Duke Libraries online guide here and navigate to the "Generate SSH keys" section:  https://git-rfun.library.duke.edu/outline.html#generate_ssh_keys_in_advance_of_the_workshop. 
+You now have tracked the course repository (i.e., the "upstream"), forked the repository into your own account (i.e., the "remote"), and cloned the repository to your drive (i.e., the "local"). We will be updating each of these repositories as the course progresses. <br>
+
+Note: Clone with SSH is an option as well. For a guide on creating SSH keys, see the Duke Libraries online guide here and navigate to the "Generate SSH keys" section:  https://git-rfun.library.duke.edu/outline.html#generate_ssh_keys_in_advance_of_the_workshop. <br>
 
 ### Adding your GitHub credentials to your local repository
 
-1. In RStudio, activate the Git menu, and from this menu click the :gear: icon, and select the `Shell...` option. This will open up the Git Bash shell for this repository. 
+1. In RStudio, activate the Git menu, and from this menu click the :gear: icon, and select the `Shell...` option. This will open up the Git Bash shell for this repository. <br> 
 
-2. At the shell prompt type the following two commands to set you repository's user name and email, replacing my Git username and email with the username and email associated with your GitHub account:
+2. At the shell prompt type the following two commands to set you repository's user name and email, replacing my Git username and email with the username and email associated with your GitHub account: <br>
 
- `git config user.name johnpfay`
+ `git config user.name 'yourusername'` <br>
  
- `git config user.email john.fay@duke.edu`
+ `git config user.email 'youremail'` <br>
 
 ### Editing, Committing, Pushing
 
-1. Navigate to the "README.md" file in the Files tab and open it. 
+1. Navigate to the "README.md" file in the Files tab and open it. <br>
 
-2. Type your name after "Student:" and save.
+2. Type your name after "Student:" and save. <br>
 
-3. Now that you have edited a file, it should now appear in the Git tab. Click the box to the left of the file, where a check mark should now appear.
+3. Now that you have edited a file, it should now appear in the Git tab. Click the box to the left of the file, where a check mark should now appear. <br>
 
-4. Press the "Commit" button. A new window should appear that shows the changes that have been made to the file. 
+4. Press the "Commit" button. A new window should appear that shows the changes that have been made to the file. <br> 
 
 5. Write a message detailing the edits you've made to the README file. You should always include a commit message to your commits so that your future self and/or your collaborators will know what changes were made. Click "Commit".
 
@@ -109,26 +110,26 @@ If there are changes in your remote repository that you want to incorporate into
 
 ### Pulling from the Upstream Remote
 
-Your instructors will regularly update the course repository. However, this will not update the repository that you've forked into your own user account (i.e., remote) unless you tell it to do so. 
+Your instructors will regularly update the course repository. However, this will not update the repository that you've forked into your own user account (i.e., remote) unless you tell it to do so. <br>
 
-Type the following commands into the Terminal window in RStudio (bottom left)
+Type the following commands into the Terminal window in RStudio (bottom left) <br>
 
-`git remote add upstream https://github.com/ENV872/Environmental_Data_Analytics_2021`
+`git remote add upstream https://github.com/ENV790/TimeSeriesAnalysis_23`<br>
 
-`git pull upstream main`
+`git pull upstream main`<br>
 
-An alternate to pull is fetch + merge: 
+An alternate to pull is fetch + merge: <br>
 
-`git fetch upstream main`
+`git fetch upstream main` <br>
 
-`git merge upstream`
+`git merge upstream` <br>
 
-Note: these steps will update your local repository, but will not update your remote. To bring your remote up to date, you will need to push your changes. 
+Note: these steps will update your local repository, but will not update your remote. To bring your remote up to date, you will need to push your changes. <br>
 
-Note: you will not be pushing any of your changes to the upstream remote, as you do not have the appropriate permissions to do so.
+Note: you will not be pushing any of your changes to the upstream remote, as you do not have the appropriate permissions to do so. <br>
 
 ## Merge
 
-Sometimes, files in your local and remote repositories will have changes that are different. In this case, you will need to merge the files together in a way that incorporates the changes in a manner that you choose (merge). When a merge conflict occurs, you will need to open the conflicted file in RStudio, review any edits that are inconsistent across versions, and make edits to incorporate all desired updates. You may then commit and push. 
+Sometimes, files in your local and remote repositories will have changes that are different. In this case, you will need to merge the files together in a way that incorporates the changes in a manner that you choose (merge). When a merge conflict occurs, you will need to open the conflicted file in RStudio, review any edits that are inconsistent across versions, and make edits to incorporate all desired updates. You may then commit and push. <br>
 
 
