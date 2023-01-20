@@ -7,7 +7,7 @@ sidebar:
 output:
   pdf_document: default
   word_document: default
-geometry: margin=2.54cm
+geometry: margin=2.0cm
 ---
 
 This material was adapted from ENV 872 - Environmental Data Analytics and developed by Prof. John Fay.
