@@ -50,8 +50,9 @@ A *fork* is a copy or clone of the main project. Forking allows for greater over
 
  ![Screenshot](/docs/assets/git-clone.jpeg)
 
-
  * Launch RStudio and select "New Project" from the File menu. Choose "Version Control" and "Git." <br>
+
+ ![Screenshot](/docs/assets/R-newproj.jpeg)
 
  * Paste the repository URL and give your repository a name and a file path. The file path should be one that persists permanently, i.e., either on the course server for lab computers or a dedicated space on your personal computer. <br>
 
@@ -63,10 +64,19 @@ Note: Clone with SSH is an option as well. For a guide on creating SSH keys, see
 
 1. In RStudio, activate the Git menu, and from this menu click the :gear: icon, and select the `Shell...` option. This will open up the Git Bash shell for this repository. <br> 
 
+![Screenshot](/docs/assets/R-git-shell.jpeg)
+
+
 2. At the shell prompt type the following two commands to set you repository's user name and email, replacing my Git username and email with the username and email associated with your GitHub account: <br>
+
+![Screenshot](/docs/assets/R-terminal.jpeg)
 
 > $ git config user.name 'yourusername' <br> 
 > $ git config user.email 'youremail' <br>
+
+Note: You do not need to type the $.
+
+![Screenshot](/docs/assets/R-terminal.jpeg)
 
 3. Add you Personal Access Token (PAT). Please look at the Step 3 direction in this [link](https://env872.github.io/setup/github.html)
 

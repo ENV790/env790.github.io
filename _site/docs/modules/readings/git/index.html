@@ -222,12 +222,15 @@ A <em>fork</em> is a copy or clone of the main project. Forking allows for great
 <p><img src="/docs/assets/git-clone.jpeg" alt="Screenshot"></p>
 
 <ul>
-  <li>
-    <p>Launch RStudio and select “New Project” from the File menu. Choose “Version Control” and “Git.” <br></p>
-  </li>
-  <li>
-    <p>Paste the repository URL and give your repository a name and a file path. The file path should be one that persists permanently, i.e., either on the course server for lab computers or a dedicated space on your personal computer. <br></p>
-  </li>
+  <li>Launch RStudio and select “New Project” from the File menu. Choose “Version Control” and “Git.” <br>
+</li>
+</ul>
+
+<p><img src="/docs/assets/R-newproj.jpeg" alt="Screenshot"></p>
+
+<ul>
+  <li>Paste the repository URL and give your repository a name and a file path. The file path should be one that persists permanently, i.e., either on the course server for lab computers or a dedicated space on your personal computer. <br>
+</li>
 </ul>
 
 <p>You now have tracked the course repository (i.e., the “upstream”), forked the repository into your own account (i.e., the “remote”), and cloned the repository to your drive (i.e., the “local”). We will be updating each of these repositories as the course progresses. <br></p>
@@ -237,18 +240,27 @@ A <em>fork</em> is a copy or clone of the main project. Forking allows for great
 <h3 id="adding-your-github-credentials-to-your-local-repository">Adding your GitHub credentials to your local repository</h3>
 
 <ol>
-  <li>
-    <p>In RStudio, activate the Git menu, and from this menu click the <img class="emoji" title=":gear:" alt=":gear:" src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png" height="20" width="20"> icon, and select the <code class="language-plaintext highlighter-rouge">Shell...</code> option. This will open up the Git Bash shell for this repository. <br></p>
-  </li>
-  <li>
-    <p>At the shell prompt type the following two commands to set you repository’s user name and email, replacing my Git username and email with the username and email associated with your GitHub account: <br></p>
-  </li>
+  <li>In RStudio, activate the Git menu, and from this menu click the <img class="emoji" title=":gear:" alt=":gear:" src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png" height="20" width="20"> icon, and select the <code class="language-plaintext highlighter-rouge">Shell...</code> option. This will open up the Git Bash shell for this repository. <br>
+</li>
 </ol>
+
+<p><img src="/docs/assets/R-git-shell.jpeg" alt="Screenshot"></p>
+
+<ol>
+  <li>At the shell prompt type the following two commands to set you repository’s user name and email, replacing my Git username and email with the username and email associated with your GitHub account: <br>
+</li>
+</ol>
+
+<p><img src="/docs/assets/R-terminal.jpeg" alt="Screenshot"></p>
 
 <blockquote>
   <p>$ git config user.name ‘yourusername’ <br> 
 $ git config user.email ‘youremail’ <br></p>
 </blockquote>
+
+<p>Note: You do not need to type the $.</p>
+
+<p><img src="/docs/assets/R-terminal.jpeg" alt="Screenshot"></p>
 
 <ol>
   <li>Add you Personal Access Token (PAT). Please look at the Step 3 direction in this <a href="https://env872.github.io/setup/github.html">link</a>
