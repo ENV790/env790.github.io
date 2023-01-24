@@ -36,9 +36,11 @@ A *fork* is a copy or clone of the main project. Forking allows for greater over
 
 1. Go to the following repository on GitHub: https://github.com/ENV790/TimeSeriesAnalysis_Sp23
 
-2. Sign in (via the button in the upper right corner) 
+2. Sign in (via the button in the upper right corner). 
 
-3. In the upper right corner, click the "fork" button. This will prompt you to create a copy of this repository in your own user account. This is called a fork of the original repository, which you can edit rather than simply download. 
+3. In the upper right corner, click the "fork" button. This will prompt you to create a copy of this repository in your own user account. See image below. This is called a fork of the original repository, which you can edit rather than simply download. 
+
+![Screenshot](/docs/assets/git-fork.jpeg)
 
 4. Clone your repository to your local drive using RStudio. <br>
 
