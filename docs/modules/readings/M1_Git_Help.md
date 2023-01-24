@@ -76,7 +76,6 @@ Note: Clone with SSH is an option as well. For a guide on creating SSH keys, see
 
 Note: You do not need to type the $.
 
-![Screenshot](/docs/assets/R-terminal.jpeg)
 
 3. Add you Personal Access Token (PAT). Please look at the Step 3 direction in this [link](https://env872.github.io/setup/github.html)
 
