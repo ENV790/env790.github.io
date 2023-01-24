@@ -1,4 +1,4 @@
-I"x<p>The following steps should be performed on your personal computer. If you already have R and RStudio installed skip to step 4.</p>
+I"u<p>The following steps should be performed on your personal computer. If you already have R and RStudio installed skip to step 4.</p>
 
 <p>1)	Download R from the link <a href="https://cran.r-project.org">https://cran.r-project.org</a>. Click on Download R for (Mac) OS X. Choose the most up to date version R-4.2.2.pkg. Install the package by double-clicking on it and working through the prompts. Leave all default settings in the installation options.</p>
 
@@ -59,7 +59,7 @@ updateR()</p>
 <p>Make sure to set Git with your name and email address using the following commands on the Terminal with your name and email address.</p>
 
 <blockquote>
-  <p>$ git config –global user.name “FirstName LastName”
+  <p>$ git config –global user.name “username” <br />
 $ git config –global user.email “email@example.com”</p>
 </blockquote>
 

@@ -8,7 +8,7 @@
 <loc>http://localhost:4000/docs/modules/M1/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/docs/modules/git/</loc>
+<loc>http://localhost:4000/docs/modules/readings/git/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/docs/modules/readings/soft-mac/</loc>
@@ -137,6 +137,10 @@
 <url>
 <loc>http://localhost:4000/docs/modules/PPTS/TSA_M2_ACF.pdf</loc>
 <lastmod>2023-01-18T12:21:49-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/docs/modules/readings/M1_Intro-TSA-in-R.pdf</loc>
+<lastmod>2023-01-20T14:54:40-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/docs/modules/readings/M2-TSA-cryer-ch2.pdf</loc>

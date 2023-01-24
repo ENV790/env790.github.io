@@ -2,12 +2,10 @@
 title: "Version Control and Git"
 layout: single
 permalink: /docs/modules/readings/git/
-sidebar:
- nav: modules
 output:
   pdf_document: default
   word_document: default
-geometry: margin=2.0cm
+geometry: margin=2.54cm
 ---
 
 This material was adapted from ENV 872 - Environmental Data Analytics and developed by Prof. John Fay.
@@ -112,7 +110,7 @@ Your instructors will regularly update the course repository. However, this will
 
 Type the following commands into the Terminal window in RStudio (bottom left) <br>
 
-> $ git remote add upstream https://github.com/ENV790/TimeSeriesAnalysis_23<br>
+> $ git remote add upstream https://github.com/ENV790/TimeSeriesAnalysis_Sp23<br>
 > $ git pull upstream main<br>
 
 An alternate to pull is fetch + merge: <br>
