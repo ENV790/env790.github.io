@@ -44,9 +44,12 @@ A *fork* is a copy or clone of the main project. Forking allows for greater over
 
 4. Clone your repository to your local drive using RStudio. <br>
 
- * Copy the GitHub repository URL. <br>
+ * Copy the GitHub repository URL of your cloned repository - not the main class repository. <br>
 
- * Click the green "Code" button to expose the Clone sub-menu.With the `HTTPS` option selected, click the :clipboard: icon which copies the forked repsository's URL to your clipboard. <br>
+ * Click the green "Code" button to expose the Clone sub-menu. With the `HTTPS` option selected, click the :clipboard: icon which copies the forked repsository's URL to your clipboard. <br>
+
+ ![Screenshot](/docs/assets/git-clone.jpeg)
+
 
  * Launch RStudio and select "New Project" from the File menu. Choose "Version Control" and "Git." <br>
 
