@@ -63,6 +63,8 @@ Note: Clone with SSH is an option as well. For a guide on creating SSH keys, see
 > $ git config user.name 'yourusername' <br> 
 > $ git config user.email 'youremail' <br>
 
+3. Add you Personal Access Token (PAT). Please look at the Step 3 direction in this [link](https://env872.github.io/setup/github.html)
+
 ### Editing, Committing, Pushing
 
 1. Navigate to the "README.md" file in the Files tab and open it. <br>
