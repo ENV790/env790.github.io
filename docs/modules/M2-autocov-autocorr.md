@@ -31,10 +31,12 @@ Additional information and resources for this module will be found below. <br>
 
 * <a href="/docs/modules/readings/M2_Rpack-lubri.pdf" > Package Lubridate Cheat Sheet </a>
 
+Class exercise: calculate ACF and PACF for collected temperature data.
 
+* <a href="/docs/modules/readings/M2_Temp_Example_ACF_PACF.xlsx" > Download Excel file </a>
 
 
 ## Deliverables
 
-
+For this module you will complete [Assignment 2](https://github.com/ENV790/TimeSeriesAnalysis_Sp23/blob/main/Assignments/TSA_A02_Sp23.Rmd). The due date for A02 is Friday Feb 3rd.
 

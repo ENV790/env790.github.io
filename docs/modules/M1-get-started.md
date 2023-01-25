@@ -61,4 +61,4 @@ No matter which option you choose to run R, you also have the choice to link RSt
 
 ## Deliverables
 
-No deliverable for M1. Just go over tthe material under resouces and make sure you have R and RStudio ready to be used before we start M2.
+Go over the material under resouces and make sure you have R and RStudio ready to be used before we start M2. Complete [Assignment 1](https://github.com/ENV790/TimeSeriesAnalysis_Sp23/blob/main/Assignments/TSA_A01_Sp23.Rmd). The due date for A01 is Tuesday Jan 24.
