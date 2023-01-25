@@ -139,6 +139,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ENV790/TimeSeriesAnalysis_Sp23"
 
+    - label: "Rcontainer"
+      icon:
+      url: "https://cmgr.oit.duke.edu/containers"
+
+
 #
 # Archives
 #  Type
