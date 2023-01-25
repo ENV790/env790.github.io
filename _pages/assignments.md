@@ -6,7 +6,7 @@ output:
     df_print: paged
 excerpt: Class Schedule
 #redirect_from: "/theme-setup/"
-last_modified_at: "2023-01-18"
+last_modified_at: "2023-01-25"
 layout: single
 #sidebar: overview
 
