@@ -25,5 +25,6 @@ You should use Sakai to submit your work. Assignments should be submitted using 
 | A6 - AR and MA models <br> [Sakai link]() <br> [GitHub link]() | Mar 3 |
 | A7 - ARIMA models <br> [Sakai link]() <br> [GitHub link]() | Mar 10 |
 |  A8 - Model performance <br> [Sakai link]() <br> [GitHub link]() | Mar 24 |
-| A9 - Forecasting competition <br> [Sakai link]() <br> [GitHub link]() | First model by Mar 31 and keep submitting until Apr 19 |
+| A9 - Forecasting competition <br> [Sakai link]() <br> [GitHub link]() | First model by Mar 31 <br> 
+Open until Apr 19 |
 | Final Project <br> Presentation & Short report | Apr 19 |
