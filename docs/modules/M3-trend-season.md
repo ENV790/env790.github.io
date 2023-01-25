@@ -18,7 +18,7 @@ The learning goals for this module are:
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M3_.pdf" > To Be Posted </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/PSE_M3_TrendAndSeasonality.pdf" > To Be Posted </a> to the slide deck used in class.
 
 
 ## Resources
@@ -28,8 +28,6 @@ Additional information and resources for this module will be found below. <br>
 *  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M3_TSA-cryer-ch3.pdf" > Chapter 3: Trends </a> <br>
 
 * Additional readings on seasonal [dummies](https://otexts.com/fpp2/useful-predictors.html)
-
-
 
 
 ## Deliverables
