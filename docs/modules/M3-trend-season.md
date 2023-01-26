@@ -18,7 +18,7 @@ The learning goals for this module are:
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M3_TrendAndSeasonality.pdf" > To Be Posted </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/TSA_M3_TrendAndSeasonality.pdf" > link </a> to the slide deck used in class.
 
 
 ## Resources
