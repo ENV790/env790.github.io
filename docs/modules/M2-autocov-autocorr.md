@@ -29,7 +29,7 @@ Additional information and resources for this module will be found below. <br>
 
 * <a href="/docs/modules/readings/M2_IntroR-RStudio.pdf" > Intro to R and RStudio </a>
 
-* <a href="/docs/modules/readings/M2_Rpack-lubri.pdf" > Package Lubridate Cheat Sheet </a>
+* <a href="/docs/modules/readings/M2_Rpack-lubridate.pdf" > Package Lubridate Cheat Sheet </a>
 
 Class exercise: calculate ACF and PACF for collected temperature data.
 
