@@ -34,6 +34,7 @@ Additional information and resources for this module will be found below. <br>
 Class exercise: calculate ACF and PACF for collected temperature data.
 
 * <a href="/docs/modules/readings/M2_Temp_Example_ACF_PACF.xlsx" > Download Excel file </a>
+* <a href="/docs/modules/readings/M2_Temp_Example_ACF_PACF_Solution.xlsx" > Download Excel file with Solution </a>
 
 
 ## Deliverables
