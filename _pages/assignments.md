@@ -19,7 +19,7 @@ You should use Sakai to submit your work. Assignments should be submitted using 
 |------------------|-------------------|
 | A01 - Course Set Up <br> [Sakai link](https://sakai.duke.edu/portal/site/a5ad3ba7-7739-47f2-b244-5845e726204e/tool/5ec87633-0272-40ea-9b4b-5ffd65f61cba?panel=Main) <br> [GitHub link](https://github.com/ENV790/TimeSeriesAnalysis_Sp23/blob/main/Assignments/TSA_A01_Sp23.Rmd) | Jan 24 |
 | A02 - ACF & PACF <br> [Sakai link](https://sakai.duke.edu/portal/site/a5ad3ba7-7739-47f2-b244-5845e726204e/tool/5ec87633-0272-40ea-9b4b-5ffd65f61cba?panel=Main) <br> [GitHub link](https://github.com/ENV790/TimeSeriesAnalysis_Sp23/blob/main/Assignments/TSA_A02_Sp23.Rmd) | Feb 3 |
-| A03 - Trend and Seasonality <br> [Sakai link]() <br> [GitHub link]((https://github.com/ENV790/TimeSeriesAnalysis_Sp23/blob/main/Assignments/TSA_A03_Sp23.Rmd)) | Feb 10 |
+| A03 - Trend and Seasonality <br> [Sakai link](https://sakai.duke.edu/portal/site/a5ad3ba7-7739-47f2-b244-5845e726204e/tool/5ec87633-0272-40ea-9b4b-5ffd65f61cba?panel=Main) <br> [GitHub link]((https://github.com/ENV790/TimeSeriesAnalysis_Sp23/blob/main/Assignments/TSA_A03_Sp23.Rmd)) | Feb 10 |
 | A04 - Stationarity Tests <br> [Sakai link]() <br> [GitHub link]() | Feb 17 |
 | A05 - Decomposition <br> [Sakai link]() <br> [GitHub link]() | Feb 24 |
 | A06 - AR and MA models <br> [Sakai link]() <br> [GitHub link]() | Mar 3 |
