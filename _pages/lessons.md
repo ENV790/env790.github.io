@@ -21,10 +21,10 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L1 | <a href="/docs/modules/M1/" > M1 </a> | Jan 12 | Introductions and Course Overview  | Join Slack Workspace |
 | L2 |   <a href="/docs/modules/M1/" > M1 </a> | Jan 17 | Intro to Time Series Analysis, Intro to R and RStudio, Github, R Markdown | A01 |
 | L3 | <a href="/docs/modules/M2/" > M2 </a> | Jan 19 | Autocovariance and autocorrelation function | |
-| L4 | <a href="/docs/modules/M2/" > M2 </a> | Jan 24 | Partial autocorrelation function | |
-| L5 | <a href="/docs/modules/M2/" > M2 </a> | Jan 26 | ACF, PACF and plots in R | A02 |
-| L6 | <a href="/docs/modules/M3/" > M3 </a> | Jan 31 | Trend and Seasonality |  |
-| L7 | <a href="/docs/modules/M3/" > M3 </a> | Feb 2 | Stochastic vs Deterministic Trend | A03 |
+| L4 | <a href="/docs/modules/M2/" > M2 </a> | Jan 24 | Partial autocorrelation function <br> ACF and PACF in R| |
+| L5 | <a href="/docs/modules/M2/" > M2 </a> <br> <a href="/docs/modules/M2/" > M3 </a>  | Jan 26 | ACF, PACF and plots in R <br> Trend Component Estimation| A02 |
+| L6 | <a href="/docs/modules/M3/" > M3 </a> | Jan 31 | Seasonal Component - Stochastic vs Deterministic Trend |  |
+| L7 | <a href="/docs/modules/M3/" > M3 </a> | Feb 2 | Trend and Seasonal component estimation in R | A03 |
 | L8 | <a href="/docs/modules/M4/" > M4 </a> | Feb 7 | Stationarity Tests: Mann Kendall, Spearman, Augmented Dickey Fuller | A04 |
 | L9 | <a href="/docs/modules/M5/" > M5 </a> | Feb 9 | Outlier types, detection, how to handle missing data| A05 |
 | L10 | <a href="/docs/modules/M6/" > M6 </a> | Feb 14 | Intro to the Traditional Box & Jenkins Models - ARIMA family |  |

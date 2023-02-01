@@ -1,5 +1,5 @@
 ---
-title: "M3 - Treand and Seasonality"
+title: "M3 - Trend and Seasonality"
 layout: single
 permalink: /docs/modules/M3/
 sidebar:
