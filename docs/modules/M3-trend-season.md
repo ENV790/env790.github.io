@@ -29,6 +29,8 @@ Additional information and resources for this module will be found below. <br>
 
 * Additional readings on seasonal [dummies](https://otexts.com/fpp2/useful-predictors.html)
 
+* <a href="/docs/modules/readings/M3_Rpack-trend.pdf" > Package Kendall Documentation </a>
+
 
 ## Deliverables
 
