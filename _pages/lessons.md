@@ -25,8 +25,8 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L5 | <a href="/docs/modules/M2/" > M2 </a> <br> <a href="/docs/modules/M2/" > M3 </a>  | Jan 26 | ACF, PACF and plots in R <br> Trend Component Estimation| A02 |
 | L6 | <a href="/docs/modules/M3/" > M3 </a> | Jan 31 | Seasonal Component - Stochastic vs Deterministic Trend |  |
 | L7 | <a href="/docs/modules/M3/" > M3 </a> | Feb 2 | Trend and Seasonal component estimation in R | A03 |
-| L8 | <a href="/docs/modules/M4/" > M4 </a> | Feb 7 | Stationarity Tests: Mann Kendall, Spearman, Augmented Dickey Fuller | A04 |
-| L9 | <a href="/docs/modules/M5/" > M5 </a> | Feb 9 | Outlier types, detection, how to handle missing data| A05 |
+| L8 | <a href="/docs/modules/M3/" > M3 </a> | Feb 7 | Stationarity Tests: Mann Kendall, Spearman, Augmented Dickey Fuller | A04 |
+| L9 | <a href="/docs/modules/M4/" > M4 </a> | Feb 9 | Outlier types, detection, how to handle missing data| A05 |
 | L10 | <a href="/docs/modules/M6/" > M6 </a> | Feb 14 | Intro to the Traditional Box & Jenkins Models - ARIMA family |  |
 | L11 | <a href="/docs/modules/M6/" > M6 </a> | Feb 16 | Stationary Models: AR and MA process | A06 |
 | L12 | <a href="/docs/modules/M7/" > M7 </a> | Feb 21 | Seasonal ARIMA and Periodic ARMA Models |  |

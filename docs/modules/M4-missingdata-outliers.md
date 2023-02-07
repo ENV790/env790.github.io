@@ -26,6 +26,8 @@ Additional information and resources for this module will be found below. <br>
 
 * <a href="/docs/modules/readings/M4_Rpackage-Outliers.pdf" > Package Outliers Documentation </a>
 
+* Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos, [Section 12.9: Dealing with missing values and outliers](https://otexts.com/fpp2/missing-outliers.html)
+
 
 ## Deliverables
 
