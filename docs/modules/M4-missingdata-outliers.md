@@ -17,14 +17,14 @@ The learning goals for this module are:
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M4_OutliersAndMissingData.pdf" > link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/TSA_M4_OutliersAndMissingData.pdf" > link </a> to the slide deck used in class.
 
 
 ## Resources
 
 Additional information and resources for this module will be found below. <br>
 
-* <a href="/docs/modules/readings/M4_Rpackage-Outliers.pdf" > Package Outliers Documentation </a>
+* <a href="/docs/modules/readings/M4_RPackage-Outliers.pdf" > Package Outliers Documentation </a>
 
 * Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos, [Section 12.9: Dealing with missing values and outliers](https://otexts.com/fpp2/missing-outliers.html)
 
