@@ -1,45 +1,32 @@
 ---
-title: "M6 - Behind-the-Meter (BTM) Energy Management Systems: PV + battery"
+title: "M5 - ARIMA Models"
 layout: single
-permalink: /docs/modules/M6d/
+permalink: /docs/modules/M5/
 sidebar:
  nav: modules
 ---
 
 ## Learning Objectives
 
-In this module we will talk about distributed energy resources with focus on electrical energy storage (EES). The learning outcomes of this module are:
+The learning goals for this module are:
 
-* Learn how to manage a system with PV + storage;
-* More on linear programming (LP);
-* More on how to solve LP models in Python using PYOMO library (or R using lpsolve).
+* Discuss the non-seasonal ARIMA class of models for stationary series and its variations (AR, MA and ARMA); <br>
+* Understand the main differences between and autoregressiva and moving average component; <br>
+* Understand the unit root condition for stationarity; <br>
+* Learn how to fit non-seasonal ARIMA models in R. <br>
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M6_DER_StorageManagement.pdf" > link </a> to the slide deck used in class.
-
-
-## Recordings
-  <ul>
-  {% for row in site.data.Recordings %}
-  {% if row.M == "M1" %}
-  <li> <a href="{{ row.link }}" target="_blank">{{ row.Task }}</a></li>
-  {% endif %}
-  {% endfor %}
-  </ul>
+Here is a <a href="/docs/modules/PPTS/TSA_M5_StationaryModels.pdf" > link </a> to the slide deck used in class.
 
 
 ## Resources
 
-And here is a similar version of the model but incorporating uncertainty, i.e., a stochastic version of the model we explored.
+* [Tutorial on Time Series Modeling](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
 
-* <a href="/docs/modules/readings/M6_PVStorage_Stochastic.pdf" > Stochastic PV + Storage </a>
-
-
-## Topics for Discussion/Reflection
-
+*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M5_TSA-cryer-ch4.pdf" > Chapter 4: Models for Stationary Time Series </a> <br>
 
 
 ## Deliverables
 
-For this module you will complete [Assignment 3](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/bf736605-42a0-41a8-987a-754e3066d785?panel=Main). The due date for A3 is Friday Oct 21st.
+For this module you will complete [Assignment 5 - TBU](). The due date for A5 is February 24.
