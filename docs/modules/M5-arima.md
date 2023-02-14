@@ -26,6 +26,8 @@ Here is a <a href="/docs/modules/PPTS/TSA_M5_StationaryModels.pdf" > link </a> t
 
 *  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M5_TSA-cryer-ch4.pdf" > Chapter 4: Models for Stationary Time Series </a> <br>
 
+* Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos, [Chapter 8: ARIMA Models](https://otexts.com/fpp2/arima.html)
+
 
 ## Deliverables
 
