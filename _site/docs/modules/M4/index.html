@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>M5 - Distributed Energy Resources &amp; Economics of Energy Storage - Time Series Analysis for Energy Data</title>
+<!-- begin _includes/seo.html --><title>M4 - Missing Data and Outliers - Time Series Analysis for Energy Data</title>
 <meta name="description" content="">
 
 
@@ -17,8 +17,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Time Series Analysis for Energy Data">
-<meta property="og:title" content="M5 - Distributed Energy Resources &amp; Economics of Energy Storage">
-<meta property="og:url" content="http://localhost:4000/docs/modules/M5d/">
+<meta property="og:title" content="M4 - Missing Data and Outliers">
+<meta property="og:url" content="http://localhost:4000/docs/modules/M4/">
 
 
   <meta property="og:description" content="">
@@ -34,7 +34,7 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/docs/modules/M5d/">
+<link rel="canonical" href="http://localhost:4000/docs/modules/M4/">
 
 
 
@@ -203,62 +203,6 @@
         
       </li>
     
-      <li>
-        
-          <a href="/docs/modules/M6/"><span class="nav__sub-title">Module 6</span></a>
-        
-
-        
-      </li>
-    
-      <li>
-        
-          <a href="/docs/modules/M7/"><span class="nav__sub-title">Module 7</span></a>
-        
-
-        
-      </li>
-    
-      <li>
-        
-          <a href="/docs/modules/M8/"><span class="nav__sub-title">Module 8</span></a>
-        
-
-        
-      </li>
-    
-      <li>
-        
-          <a href="/docs/modules/M9/"><span class="nav__sub-title">Module 9</span></a>
-        
-
-        
-      </li>
-    
-      <li>
-        
-          <a href="/docs/modules/M10/"><span class="nav__sub-title">Module 10</span></a>
-        
-
-        
-      </li>
-    
-      <li>
-        
-          <a href="/docs/modules/M11/"><span class="nav__sub-title">Module 11</span></a>
-        
-
-        
-      </li>
-    
-      <li>
-        
-          <a href="/docs/modules/M12/"><span class="nav__sub-title">Module 12</span></a>
-        
-
-        
-      </li>
-    
   </ul>
 </nav>
 
@@ -269,7 +213,7 @@
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="M5 - Distributed Energy Resources &amp; Economics of Energy Storage">
+    <meta itemprop="headline" content="M4 - Missing Data and Outliers">
     
     
     
@@ -278,7 +222,7 @@
       
         <header>
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="http://localhost:4000/docs/modules/M5d/" class="u-url" itemprop="url">M5 - Distributed Energy Resources &amp; Economics of Energy Storage
+            <a href="http://localhost:4000/docs/modules/M4/" class="u-url" itemprop="url">M4 - Missing Data and Outliers
 </a>
           </h1>
           
@@ -291,56 +235,35 @@
         
         <h2 id="learning-objectives">Learning Objectives</h2>
 
-<p>In this module we will talk about distributed energy resources with focus on electrical energy storage (EES). The learning outcomes of this module are:</p>
+<p>The learning goals for this module are:</p>
 
 <ul>
-  <li>Understand the multi-service storage can provide to power systems;</li>
-  <li>Overview of common EES technologies and existing facilities in US and other countries;</li>
-  <li>Overview of energy storage perspective and projections;</li>
-  <li>Introduction to operations research and mathematical models with focus on linear programming (LP);</li>
-  <li>Learn how to solve LP models in Python using PYOMO library (or R using lpsolve).</li>
+  <li>Learn how to handle missing data in time series analysis; <br /></li>
+  <li>Discuss the different types of outliers and causes; <br /></li>
+  <li>Learn how to identify and properly remove outliers from a time series; <br /></li>
+  <li>Get familiar with R functions to handle missing data and outliers (package outliers). <br /></li>
 </ul>
 
 <h2 id="slides">Slides</h2>
 
-<p>Here is a <a href="/docs/modules/PPTS/PSE_M5_DER_Storage.pdf"> link </a> to the slide deck used in class.</p>
-
-<h2 id="recordings-on-lps">Recordings on LPs</h2>
-<ul>
-  
-  </ul>
-
-<ul>
-  <li>Intro to Operations Research and Linear Programming <a href="https://youtu.be/2HdF3Uprz2s">recording</a>).</li>
-  <li>Linear Programming in R with lpsolve <a href="https://youtu.be/HwdVA__DfRM">recording</a>.</li>
-  <li>Linear Programming in Python with Pyomo <a href="https://youtu.be/PIghwRli-S4">recording</a></li>
-</ul>
+<p>Here is a <a href="/docs/modules/PPTS/TSA_M4_OutliersAndMissingData.pdf"> link </a> to the slide deck used in class.</p>
 
 <h2 id="resources">Resources</h2>
 
-<p>And here are additional resources and readings for energy storage.</p>
+<p>Additional information and resources for this module will be found below. <br /></p>
 
 <ul>
-  <li><a href="/docs/modules/readings/M5_gridmod.pdf"> 50 States of Grid Modernization </a></li>
-  <li><a href="/docs/modules/readings/M5_ElectES.pdf"> Overview of current development in electrical energy storage </a></li>
+  <li>
+    <p><a href="/docs/modules/readings/M4_RPackage-Outliers.pdf"> Package Outliers Documentation </a></p>
+  </li>
+  <li>
+    <p>Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos, <a href="https://otexts.com/fpp2/missing-outliers.html">Section 12.9: Dealing with missing values and outliers</a></p>
+  </li>
 </ul>
-
-<p>For more information on LPs and the water heater/chemical solution example, please refer to the additional slides on linear programming linked below. You do not need to worry about the graphical solution since we will use computer solvers to solve our models.</p>
-
-<ul>
-  <li><a href="/docs/modules/readings/M5_Additional_LP_Slides.pdf"> Intro to Linear Programming </a></li>
-</ul>
-
-<p>Instructions on how to get Google Colab set up on your machine available <a href="/docs/modules/codes/colab/"> here</a>.
-The script in Python created in the video is available in the <a href="https://colab.research.google.com/drive/1PPme9yDW9Vcon8F9Oi-ku0dYMhau__2r?usp=sharing">link</a>. You may also open the html version of the script <a href="/docs/modules/codes/M5_SimpleExamplePY.html"> here</a>.</p>
-
-<p>The script in R created in the video is available for download <a href="/docs/modules/codes/M5_SimpleExample.R"> here</a>.</p>
-
-<h2 id="topics-for-discussionreflection">Topics for Discussion/Reflection</h2>
 
 <h2 id="deliverables">Deliverables</h2>
 
-<p>For this module you will complete <a href="https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/bf736605-42a0-41a8-987a-754e3066d785?panel=Main">Assignment 2</a>. The due date for A2 is Friday Oct 7th.</p>
+<p>For this module you will complete <a href="https://sakai.duke.edu/portal/site/a5ad3ba7-7739-47f2-b244-5845e726204e/tool/5ec87633-0272-40ea-9b4b-5ffd65f61cba?panel=Main">Assignment 4</a>. The due date for A4 is February 17th.</p>
 
         
       </section>
@@ -391,6 +314,10 @@ The script in Python created in the video is available in the <a href="https://c
       
         
           <li><a href="https://github.com/ENV790/TimeSeriesAnalysis_Sp23" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://cmgr.oit.duke.edu/containers" rel="nofollow noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i> Rcontainer</a></li>
         
       
     
