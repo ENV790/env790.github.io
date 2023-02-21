@@ -30,12 +30,23 @@ Here is a <a href="/docs/modules/PPTS/TSA_M5_StationaryModels.pdf" > link </a> t
 
 ## Recordings
 
-Here you will also find some helpful recordings from some of my classes.
+Here you will also find some helpful recordings.
 
-* [Intro to ARIMA Models - Part 1](https://youtu.be/LtWjs6QnlPU) 
-* [Intro to ARIMA Models - Part 2](https://youtu.be/vAjHTreb8to) 
-* [How to fit ARIMA models in R - Part 3](https://youtu.be/NkMc39iZSnk) 
-* [How to fit ARIMA models in R - Part 4](https://youtu.be/oKXzo3fVe8s) 
+* Intro to ARIMA Models - Part 1 <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LtWjs6QnlPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* Intro to ARIMA Models - Part 2 <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NkMc39iZSnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* How to fit ARIMA models in R - Part 1 <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NkMc39iZSnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* How to fit ARIMA models in R - Part 2 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oKXzo3fVe8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Deliverables
 
