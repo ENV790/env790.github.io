@@ -50,4 +50,4 @@ Here you will also find some helpful recordings.
 
 ## Deliverables
 
-For this module you will complete [Assignment 5](https://sakai.duke.edu/portal/site/a5ad3ba7-7739-47f2-b244-5845e726204e/tool/5ec87633-0272-40ea-9b4b-5ffd65f61cba?panel=Main). The due date for A5 is February 24.
+For this module you will complete [Assignment 5](https://sakai.duke.edu/portal/site/a5ad3ba7-7739-47f2-b244-5845e726204e/tool/5ec87633-0272-40ea-9b4b-5ffd65f61cba?panel=Main). The due date for A5 is February 27.
