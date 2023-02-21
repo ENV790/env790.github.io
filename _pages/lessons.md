@@ -29,7 +29,7 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L9 | <a href="/docs/modules/M4/" > M4 </a> | Feb 9 | Outlier types, detection, how to handle missing data| A05 |
 | L10 | <a href="/docs/modules/M6/" > M5 </a> | Feb 14 | A3 Solution <br> Finish outliers in R <br> Intro to the Traditional Box & Jenkins Models - ARIMA family |  |
 | L11 | <a href="/docs/modules/M6/" > M5 </a> | Feb 16 | Stationary Models: AR and MA process | A06 |
-| L12 | <a href="/docs/modules/M7/" > M6 </a> | Feb 21 | A4 Solution <br> More on AR and MA order <br> ARIMA Models in R |  |
+| L12 | <a href="/docs/modules/M7/" > M6 </a> | Feb 21 | A4 Solution <br> AR and MA order (poll) <br> ARIMA(p,d,q) Models <br> Fitting ARIMA Models in R |  |
 | L13 | <a href="/docs/modules/M7/" > M6 </a> | Feb 23 | Seasonal ARIMA and Periodic ARMA Models | A07 |
 | L14 | <a href="/docs/modules/M8/" > M8 </a> | Feb 28 | Model Diagnostics, Residual Analysis and Model Selection |  |
 | L15 | <a href="/docs/modules/M8/" > M8 </a> | Mar 2 | Model Performance Metrics |  |
