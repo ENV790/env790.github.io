@@ -19,16 +19,27 @@ The learning goals for this module are:
 Here is a <a href="/docs/modules/PPTS/TSA_M6_SeasonalModels.pdf" > link </a> to the slide deck used in class.
 
 
-
 ## Resources
 
 *  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M5_TSA-cryer-ch6.pdf" > Chapter 6: Models for Stationary Time Series </a> <br>
 
 
-## Topics for Discussion/Reflection
+## Recordings
 
+Here you will also find some helpful recordings.
 
+* Concept and components of seasonal ARIMA models - Part 1 <br> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CX0_NgLDUmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* Concept and components of seasonal ARIMA models - Part 2 <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QqfWMq_fqmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* How to fit SARIMA models using R <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cy939o3Ic4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Deliverables
 
-For this module you will do a journal entry using Sakai discussion. Here is the journal entry [J4 link](https://sakai.duke.edu/portal/site/fc198b90-9d77-4c6b-8708-c9d0d044be5b/tool/26e522a4-84f3-4d97-9ad5-a7c405e8ea92/discussionForum/message/dfAllMessages). The due date for J4 is Tuesday Oct 25th for journal entries and Friday Oct 28th for journal comments.
+For this module you will complete [Assignment 6 - TBU](). The due date for A5 is March 6.
