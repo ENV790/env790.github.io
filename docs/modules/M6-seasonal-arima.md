@@ -1,38 +1,28 @@
 ---
-title: "M7 - Economic Dispatch with Renewables"
+title: "M6 - Seasonal ARIMA Models"
 layout: single
-permalink: /docs/modules/M7d/
+permalink: /docs/modules/M6/
 sidebar:
  nav: modules
 ---
 
 ## Learning Objectives
 
-In this module we will discuss how increased renewable energy penetration will pose new challenges to operation and scheduling of power plants. The learning outcomes of this module are:
+The learning goals for this module are:
 
-* Understand the economic dispatch problem definition;
-* Understand the challenged posed by renewables and storage - how present decisions impact future cost and increased uncertainty;
-* Discuss ways to handle uncertainty in decision problems;
-* Formulate the stochastic hydro-thermal scheduling problem (HTSP).
+* Discuss the seasonal ARIMA model (SARIMA); <br>
+* Learn how to idenfy order of seasonal component; <br>
+* Learn how to fit seasonal ARIMA models in R. <br>
 
 ## Slides
 
-Here is a <a href="/docs/modules/PPTS/PSE_M7_EconomicDispatch.pdf" > link </a> to the slide deck used in class.
+Here is a <a href="/docs/modules/PPTS/TSA_M6_SeasonalModels.pdf" > link </a> to the slide deck used in class.
 
-
-## Recordings
-  <ul>
-  {% for row in site.data.Recordings %}
-  {% if row.M == "M1" %}
-  <li> <a href="{{ row.link }}" target="_blank">{{ row.Task }}</a></li>
-  {% endif %}
-  {% endfor %}
-  </ul>
 
 
 ## Resources
 
-
+*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M5_TSA-cryer-ch6.pdf" > Chapter 6: Models for Stationary Time Series </a> <br>
 
 
 ## Topics for Discussion/Reflection
