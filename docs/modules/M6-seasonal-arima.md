@@ -21,7 +21,7 @@ Here is a <a href="/docs/modules/PPTS/TSA_M6_SeasonalModels.pdf" > link </a> to 
 
 ## Resources
 
-*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M5_TSA-cryer-ch6.pdf" > Chapter 6: Models for Stationary Time Series </a> <br>
+*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M6_TSA-cryer-ch6.pdf" > Chapter 6: Models for Stationary Time Series </a> <br>
 
 
 ## Recordings
@@ -42,4 +42,4 @@ Here you will also find some helpful recordings.
 
 ## Deliverables
 
-For this module you will complete [Assignment 6 - TBU](). The due date for A5 is March 6.
+For this module you will complete [Assignment 6 - TBU](). The due date for A6 is March 6.
