@@ -28,7 +28,15 @@ Here is a <a href="/docs/modules/PPTS/TSA_M5_StationaryModels.pdf" > link </a> t
 
 * Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos, [Chapter 8: ARIMA Models](https://otexts.com/fpp2/arima.html)
 
+## Recordings
+
+Here you will also find some helpful recordings from some of my classes.
+
+* [Intro to ARIMA Models - Part 1](https://youtu.be/LtWjs6QnlPU) 
+* [Intro to ARIMA Models - Part 2](https://youtu.be/vAjHTreb8to) 
+* [How to fit ARIMA models in R - Part 3](https://youtu.be/NkMc39iZSnk) 
+* [How to fit ARIMA models in R - Part 4](https://youtu.be/oKXzo3fVe8s) 
 
 ## Deliverables
 
-For this module you will complete [Assignment 5 - TBU](). The due date for A5 is February 24.
+For this module you will complete [Assignment 5](https://sakai.duke.edu/portal/site/a5ad3ba7-7739-47f2-b244-5845e726204e/tool/5ec87633-0272-40ea-9b4b-5ffd65f61cba?panel=Main). The due date for A5 is February 24.

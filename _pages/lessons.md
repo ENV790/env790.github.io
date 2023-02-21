@@ -27,10 +27,10 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L7 | <a href="/docs/modules/M3/" > M3 </a> | Feb 2 | Trend and Seasonal component estimation in R | A03 |
 | L8 | <a href="/docs/modules/M3/" > M3 </a> | Feb 7 | Stationarity Tests: Mann Kendall, Spearman, Augmented Dickey Fuller | A04 |
 | L9 | <a href="/docs/modules/M4/" > M4 </a> | Feb 9 | Outlier types, detection, how to handle missing data| A05 |
-| L10 | <a href="/docs/modules/M6/" > M5 </a> | Feb 14 | Finish outliers in R <br> Intro to the Traditional Box & Jenkins Models - ARIMA family |  |
+| L10 | <a href="/docs/modules/M6/" > M5 </a> | Feb 14 | A3 Solution <br> Finish outliers in R <br> Intro to the Traditional Box & Jenkins Models - ARIMA family |  |
 | L11 | <a href="/docs/modules/M6/" > M5 </a> | Feb 16 | Stationary Models: AR and MA process | A06 |
-| L12 | <a href="/docs/modules/M7/" > M6 </a> | Feb 21 | Seasonal ARIMA and Periodic ARMA Models |  |
-| L13 | <a href="/docs/modules/M7/" > M6 </a> | Feb 23 | ARIMA Models in R | A07 |
+| L12 | <a href="/docs/modules/M7/" > M6 </a> | Feb 21 | A4 Solution <br> More on AR and MA order <br> ARIMA Models in R |  |
+| L13 | <a href="/docs/modules/M7/" > M6 </a> | Feb 23 | Seasonal ARIMA and Periodic ARMA Models | A07 |
 | L14 | <a href="/docs/modules/M8/" > M8 </a> | Feb 28 | Model Diagnostics, Residual Analysis and Model Selection |  |
 | L15 | <a href="/docs/modules/M8/" > M8 </a> | Mar 2 | Model Performance Metrics |  |
 | L16 | - | Mar 7 | Class Project, Team building, Proposal presentations | Project Proposal (2-3 slides) |  |
