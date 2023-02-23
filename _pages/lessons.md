@@ -27,18 +27,18 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L7 | <a href="/docs/modules/M3/" > M3 </a> | Feb 2 | Trend and Seasonal component estimation in R | A03 |
 | L8 | <a href="/docs/modules/M3/" > M3 </a> | Feb 7 | Stationarity Tests: Mann Kendall, Spearman, Augmented Dickey Fuller | A04 |
 | L9 | <a href="/docs/modules/M4/" > M4 </a> | Feb 9 | Outlier types, detection, how to handle missing data| A05 |
-| L10 | <a href="/docs/modules/M6/" > M5 </a> | Feb 14 | A3 Solution <br> Finish outliers in R <br> Intro to the Traditional Box & Jenkins Models - ARIMA family |  |
-| L11 | <a href="/docs/modules/M6/" > M5 </a> | Feb 16 | Stationary Models: AR and MA process | A06 |
-| L12 | <a href="/docs/modules/M7/" > M5 </a> | Feb 21 | A4 Solution <br> AR and MA order (poll) <br> ARIMA(p,d,q) Models |  |
-| L13 | <a href="/docs/modules/M7/" > M6 </a> | Feb 23 | Fitting ARIMA Models in R <br> Seasonal ARIMA and Periodic ARMA Models | A07 |
-| L14 | <a href="/docs/modules/M8/" > M8 </a> | Feb 28 | Model Diagnostics, Residual Analysis and Model Selection |  |
-| L15 | <a href="/docs/modules/M8/" > M8 </a> | Mar 2 | Model Performance Metrics |  |
-| L16 | - | Mar 7 | Class Project, Team building, Proposal presentations | Project Proposal (2-3 slides) |  |
-| L17 | <a href="/docs/modules/M8/" > M8 </a> | Mar 9 | Intro to Forecasting, Averaging Techniques | A08 |
+| L10 | <a href="/docs/modules/M4/" > M4 </a> | Feb 14 | A3 Solution <br> Finish outliers in R <br>  |  |
+| L11 | <a href="/docs/modules/M5/" > M5 </a> | Feb 16 | Intro to the Traditional Box & Jenkins Models - ARIMA family <br> Stationary Models: AR and MA process | |
+| L12 | <a href="/docs/modules/M5/" > M5 </a> | Feb 21 | A4 Solution <br> AR and MA order (poll) <br> ARIMA(p,d,q) Models |  |
+| L13 | <a href="/docs/modules/M5/" > M5 </a> | Feb 23 | ARIMA(p,d,q) <br> Fitting ARIMA Models in R <br>  | A06 |
+| L14 | <a href="/docs/modules/M6/" > M6 </a> | Feb 28 | A5 Solution <br> Seasonal ARIMA and Periodic ARMA Models | |
+| L15 | <a href="/docs/modules/M6/" > M6 </a> | Mar 2 |  SARIMA in R |  A07 |
+| L16 | <a href="/docs/modules/M6/" > M8 </a> | Mar 7 | Model Diagnostics <br> Residual Analysis and Model Selection <br> Model Performance Metrics |  |
+| L17 | - | Mar 9 (remote assynchronous) | Recorded videos <br> Class Project, Team building, Proposal presentation/slides | Project Proposal (2-3 slides) 
 | - |  | Mar 14 | **Spring break no class** |  |
 | - |  | Mar 16 | **Spring break no class** |  |
-| L18 | <a href="/docs/modules/M9/" > M9 </a> | Mar 21 | Forecasting with ARIMA Models, Forecasting in R |  |
-| L19 | <a href="/docs/modules/M9/" > M9 </a> | Mar 23 | More Forecasting in R | A09 - part I |
+| L18 | <a href="/docs/modules/M9/" > M9 </a> | Mar 21 | Intro to Forecasting, Averaging Techniques <br> Forecasting with ARIMA Models|  |
+| L19 | <a href="/docs/modules/M9/" > M9 </a> | Mar 23 | Forecasting in R  | A09 - part I |
 | L20 | <a href="/docs/modules/M10/" > M10 </a> | Mar 28 |   |  |
 | L21 | <a href="/docs/modules/M10/" > M10 </a> | Mar 30 |   |  A09 - part II |
 | L22 | <a href="/docs/modules/M11/" > M11 </a> | Apr 4 |   |  |
