@@ -22,7 +22,7 @@ Here is a <a href="/docs/modules/PPTS/TSA_M8_Model_Diagnostics.pdf" > link </a> 
 
 ## Resources
 
-*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M5_TSA-cryer-ch8.pdf" > Chapter 8: Diagnostics </a> <br>
+*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M8_TSA-cryer-ch8.pdf" > Chapter 8: Diagnostics </a> <br>
 
 ## Recordings
 
@@ -36,9 +36,9 @@ The second video will explore resiual analysis.
 
 If you want to learn more about parameter estimation for the ARIMA model, please refer to the additional material below.  The slides will go over how to estimate the autoregressive coefficient (i.e. PACF values), moving average coefficent and variance of residuals.
 
-* <a href="/docs/modules/PPTS/TSA_M8.1_Parameter_Estimation.pdf" > ARIMA Parameter Estimation </a> 
+* <a href="/docs/modules/PPTS/TSA_M81_Parameter_Estimation.pdf" > ARIMA Parameter Estimation </a> 
 
-*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M5_TSA-cryer-ch9.pdf" > Chapter 7: Parameter Estimation </a> <br>
+*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M8_TSA-cryer-ch7.pdf" > Chapter 7: Parameter Estimation </a> <br>
 
 ## Deliverables
 
