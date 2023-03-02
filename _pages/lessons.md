@@ -31,17 +31,16 @@ The proposed schedule below is subject to change. My initial plan is to cover al
 | L11 | <a href="/docs/modules/M5/" > M5 </a> | Feb 16 | Intro to the Traditional Box & Jenkins Models - ARIMA family <br> Stationary Models: AR and MA process | |
 | L12 | <a href="/docs/modules/M5/" > M5 </a> | Feb 21 | A4 Solution <br> AR and MA order (poll) <br> ARIMA(p,d,q) Models |  |
 | L13 | <a href="/docs/modules/M5/" > M5 </a> | Feb 23 | ARIMA(p,d,q) <br> Fitting ARIMA Models in R <br>  | A06 |
-| L14 | <a href="/docs/modules/M6/" > M6 </a> | Feb 28 | A5 Solution <br> Seasonal ARIMA and Periodic ARMA Models | |
-| L15 | <a href="/docs/modules/M6/" > M6 </a> | Mar 2 |  SARIMA in R |  A07 |
-| L16 | <a href="/docs/modules/M6/" > M8 </a> | Mar 7 | Model Diagnostics <br> Residual Analysis and Model Selection <br> Model Performance Metrics |  |
-| L17 | - | Mar 9 (remote assynchronous) | Recorded videos <br> Class Project, Team building, Proposal presentation/slides | Project Proposal (2-3 slides) 
+| L14 | <a href="/docs/modules/M6/" > M6 </a> | Feb 28 | A5 Solution <br> Seasonal ARIMA and Periodic ARMA Models | A07 |
+| L15 | <a href="/docs/modules/M6/" > M6 </a> / <a href="/docs/modules/M7/" > M7 </a> | Mar 2 |  Finish SARIMA in R <br> Intro to Forecasting <br> Averaging Techniques <br> Forecasting with ARIMA Models|   |
+| L16 | <a href="/docs/modules/M7/" > M7 </a> | Mar 7 | Forecasting in R |  |
+| L17 | <a href="/docs/modules/M8/" > M8 </a> | Mar 9 (remote assynchronous) | Watch recodings for M8 <br> Work on Project, Team building| Project Proposal (2-3 slides) 
 | - |  | Mar 14 | **Spring break no class** |  |
 | - |  | Mar 16 | **Spring break no class** |  |
-| L18 | <a href="/docs/modules/M9/" > M9 </a> | Mar 21 | Intro to Forecasting, Averaging Techniques <br> Forecasting with ARIMA Models|  |
-| L19 | <a href="/docs/modules/M9/" > M9 </a> | Mar 23 | Forecasting in R  | A09 - part I |
-| L20 | <a href="/docs/modules/M10/" > M10 </a> | Mar 28 |   |  |
-| L21 | <a href="/docs/modules/M10/" > M10 </a> | Mar 30 |   |  A09 - part II |
-| L22 | <a href="/docs/modules/M11/" > M11 </a> | Apr 4 |   |  |
+| L18 | <a href="/docs/modules/M8/" > M8 </a> | Mar 21 |  Review Model Diagnostics <br> Review Residual Analysis and Model Selection <br> Model Performance in R  | A08 |
+| L20 | <a href="/docs/modules/M9/" > M9 </a> | Mar 28 |   | A09 - part I |
+| L21 | <a href="/docs/modules/M9/" > M9 </a> | Mar 30 |   |  A09 - part II |
+| L22 | <a href="/docs/modules/M10/" > M10 </a> | Apr 4 |   |  |
 | L23 | <a href="/docs/modules/M11/" > M11 </a> | Apr 6 |  | Work on project |
 | L24 | <a href="/docs/modules/M12/" > M12 </a> | Apr 11 |  | Work on project |
 | - | - | Apr 13  | **MEM Symposium no class** |  |
