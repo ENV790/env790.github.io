@@ -1,5 +1,5 @@
 ---
-title: "M7 - Introduction to Forecasting"
+title: "M7 - Introduction to Time Series Forecasting"
 layout: single
 permalink: /docs/modules/M7/
 sidebar:
@@ -36,7 +36,6 @@ The first video will give an introduction to time series forecasting. <br>
 The second video will go over forecasting with simple averaging techniques. <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jzP_5XcvgbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 The third video will go over forecasting with ARIMA models. <br>
 
