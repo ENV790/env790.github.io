@@ -24,7 +24,7 @@ Here is a <a href="/docs/modules/PPTS/TSA_M7_Intro_Forecasting.pdf" > link </a> 
 
 Additional resources and readings on time series forecasting.
 
-*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M7-TSA-cryer-ch9.pdf" > Chapter 9: Forecasting </a> <br>
+*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M7_TSA-cryer-ch9.pdf" > Chapter 9: Forecasting </a> <br>
 
 * Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos, [Section 8.8: Forecasting with ARIMA Models](https://otexts.com/fpp2/arima-forecasting.html)
 
