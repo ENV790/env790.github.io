@@ -21,8 +21,9 @@ Here is a <a href="/docs/modules/PPTS/TSA_M6_SeasonalModels.pdf" > link </a> to 
 
 ## Resources
 
-*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M6_TSA-cryer-ch6.pdf" > Chapter 6: Models for Stationary Time Series </a> <br>
+*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M6_TSA-cryer-ch6.pdf" > Chapter 6: Models Specification </a> <br>
 
+*  Time Series Analysis with Applications - Cryer and Shan - <a href="/docs/modules/readings/M6_TSA-cryer-ch10.pdf" > Chapter 10: Seasonal Models </a> <br>
 
 ## Recordings
 

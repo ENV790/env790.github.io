@@ -38,10 +38,10 @@ modules:
     url: /docs/modules/M5/
   - title: Module 6
     url: /docs/modules/M6/
-  # - title: Module 7
-  #   url: /docs/modules/M7/
-  # - title: Module 8
-  #   url: /docs/modules/M8/
+  - title: Module 7
+    url: /docs/modules/M7/
+  - title: Module 8
+    url: /docs/modules/M8/
   # - title: Module 9
   #   url: /docs/modules/M9/
   # - title: Module 10
